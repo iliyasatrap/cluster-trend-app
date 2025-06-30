@@ -1,0 +1,4915 @@
+[
+  {
+    "cluster_id": 0,
+    "label": "Biology / Computational biology / DNA",
+    "size": 6,
+    "authors": [
+      "Roelof A. Wester",
+      "Hannah K. Neikes",
+      "Rik G.H. Lindeboom",
+      "Michiel Vermeulen",
+      "Jiayuan Zhang",
+      "Yuning Zhang",
+      "Lele Wang",
+      "Fei Guo",
+      "Quanxin Yun",
+      "Tao Zeng",
+      "Yan Xu",
+      "Lei Yu",
+      "Lei Cheng",
+      "Wei Wu",
+      "Xiao Wei Shi",
+      "Junyi Chen",
+      "Yuhui Sun",
+      "H. J. Yang",
+      "Rongrong Guo",
+      "Xian‐Da Zhang",
+      "Liu’er Kong",
+      "Zong’an Wang",
+      "Junlei Yao",
+      "Yangsheng Tan",
+      "Liuxin Shi",
+      "Zhentao Zhao",
+      "Zhongwang Feng",
+      "Xiaopeng Yu",
+      "Chuang Li",
+      "Zhan Wu",
+      "Yulin Ren",
+      "Fengtang Yang",
+      "Zhenjun Liu",
+      "Guangnan Fan",
+      "Weilian Zhong",
+      "Dachang Li",
+      "Lei He",
+      "Yanwei Qi",
+      "Meng Zhang",
+      "Yening Zhu",
+      "Heng Chi",
+      "Ziyu Zhao",
+      "Zhuofang Wei",
+      "Ziqi Song",
+      "Yanmei Ju",
+      "Ruijin Guo",
+      "Liang Xiao",
+      "Xiu‐Mei Lin",
+      "Liang Chen",
+      "Chentao Yang",
+      "Qiye Li",
+      "Ou Wang",
+      "Xin Jin",
+      "Ming Ni",
+      "Wenwei Zhang",
+      "Longqi Liu",
+      "Ying Gu",
+      "Jian Wang",
+      "Yuxiang Li",
+      "Xun Xu",
+      "Yuliang Dong",
+      "Pedro Tomaz da Silva",
+      "Alexander Karollus",
+      "Johannes Hingerl",
+      "Gihanna Galindez",
+      "Nils Wagner",
+      "Xavier Hernandez‐Alias",
+      "Danny Incarnato",
+      "Julien Gagneur",
+      "Keisuke Motone",
+      "Daphne Kontogiorgos-Heintz",
+      "Jasmine Wee",
+      "Kyoko Kurihara",
+      "Sangbeom Yang",
+      "Gwendolin Roote",
+      "Oren E Fox",
+      "Yishu Fang",
+      "Melissa Queen",
+      "Mattias Tolhurst",
+      "Nicolás Cardozo",
+      "Miten Jain",
+      "Jeff Nivala",
+      "Gabrielle C. Coffing",
+      "Silas Tittes",
+      "Scott T. Small",
+      "Jeremea O. Songco-Casey",
+      "Denise M. Piscopo",
+      "Judit R. Pungor",
+      "Adam C. Miller",
+      "Cristopher M. Niell",
+      "Andrew D. Kern",
+      "Vladimir Mindel",
+      "Sagie Brodsky",
+      "Hadas Yung",
+      "Wajd Manadre",
+      "Naama Barkai"
+    ],
+    "papers": [
+      "https://openalex.org/W4401109001",
+      "https://openalex.org/W4401897769",
+      "https://openalex.org/W4401043959",
+      "https://openalex.org/W4402454718",
+      "https://openalex.org/W4392189708",
+      "https://openalex.org/W4401933697"
+    ],
+    "pageranks": [
+      0.001292785283175777,
+      0.0047721331508490195,
+      0.0058637439224793735,
+      0.0014390722177767138,
+      0.005753038973538892,
+      0.01070225158034947
+    ],
+    "betweenness": [
+      0,
+      364.41947866536987,
+      267.971478331392,
+      0,
+      93.15867369388252,
+      675.7711167640002
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "label": "Computer science / Engineering / Creativity",
+    "size": 3,
+    "authors": [
+      "Byung Cheol Lee",
+      "Jaeyeon Chung",
+      "Paul Hager",
+      "Friederike Jungmann",
+      "Robbie Holland",
+      "Kunal Bhagat",
+      "Inga Hubrecht",
+      "Manuel Knauer",
+      "Jakob Vielhauer",
+      "Marcus R. Makowski",
+      "Rickmer Braren",
+      "Georgios Kaissis",
+      "Daniel Rueckert",
+      "Benjamin Haibe‐Kains",
+      "George Alexandru Adam",
+      "Ahmed Hosny",
+      "Farnoosh Khodakarami",
+      "Thakkar Shraddha",
+      "Rebecca Kusko",
+      "Susanna‐Assunta Sansone",
+      "Weida Tong",
+      "Russ Wolfinger",
+      "Christopher E. Mason",
+      "Wendell Jones",
+      "Joaquı́n Dopazo",
+      "Cesare Furlanello",
+      "Levi Waldron",
+      "Bo Wang",
+      "Chris McIntosh",
+      "Anna Goldenberg",
+      "Anshul Kundaje",
+      "Casey S. Greene",
+      "Tamara Broderick",
+      "Michael M. Hoffman",
+      "Jeffrey T. Leek",
+      "Keegan Korthauer",
+      "Wolfgang Huber",
+      "Alvis Brāzma",
+      "Joëlle Pineau",
+      "Robert Tibshirani",
+      "Trevor Hastie",
+      "John P. A. Ioannidis",
+      "John Quackenbush",
+      "Hugo J.W.L. Aerts"
+    ],
+    "papers": [
+      "https://openalex.org/W4401518309",
+      "https://openalex.org/W4400324908",
+      "https://openalex.org/W3008058947"
+    ],
+    "pageranks": [
+      0.0028928396486458965,
+      0.004784131272195653,
+      0.003448318735569638
+    ],
+    "betweenness": [
+      0,
+      316,
+      628
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "label": "Computational biology / Biology / Protein engineering",
+    "size": 3,
+    "authors": [
+      "Grant M. Landwehr",
+      "Jonathan W. Bogart",
+      "Carol Magalhaes",
+      "Eric Hammarlund",
+      "Ashty S. Karim",
+      "Michael C. Jewett",
+      "Kerr Ding",
+      "M. A. Chin",
+      "Yunlong Zhao",
+      "Wei Huang",
+      "Binh Khanh",
+      "Huanan Wang",
+      "Peng Liu",
+      "Yang Yang",
+      "Yunan Luo",
+      "Bastian Vögeli",
+      "Cong Tian",
+      "Bharti Singal",
+      "Aayush Gupta",
+      "Rebeca Lion",
+      "Edward H. Sargent"
+    ],
+    "papers": [
+      "https://openalex.org/W4401346253",
+      "https://openalex.org/W4401135618",
+      "https://openalex.org/W4401446570"
+    ],
+    "pageranks": [
+      0.004473974224124183,
+      0.004685782695365295,
+      0.006002616396853339
+    ],
+    "betweenness": [
+      18.449106449106452,
+      26.621829825239082,
+      91.41270688112962
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "label": "Boom / Path (computing) / Energy (signal processing)",
+    "size": 1,
+    "authors": [
+      "Alexandra Sasha Luccioni",
+      "Boris Gamazaychikov",
+      "Sara Hooker",
+      "Régis Pierrard",
+      "Emma Strubell",
+      "Yacine Jernite",
+      "Carole-Jean Wu"
+    ],
+    "papers": [
+      "https://openalex.org/W4401757947"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "label": "Biology / Computational biology / Computer science",
+    "size": 8,
+    "authors": [
+      "Judith Bernett",
+      "David B. Blumenthal",
+      "Dominik G. Grimm",
+      "Florian Haselbeck",
+      "Roman Joeres",
+      "Olga V. Kalinina",
+      "Markus List",
+      "Liang Hong",
+      "Zhigang Hu",
+      "Siqi Sun",
+      "Xiangru Tang",
+      "Jiuming Wang",
+      "Qingxiong Tan",
+      "Liangzhen Zheng",
+      "Sheng Wang",
+      "Sheng Xu",
+      "Irwin King",
+      "Mark Gerstein",
+      "Yu Li",
+      "Justin R. Randall",
+      "Luiz Carlos Vieira",
+      "Claus O. Wilke",
+      "Bryan W. Davies",
+      "Nathaniel Burman",
+      "Svetlana Belukhina",
+      "Florence Depardieu",
+      "Royce A. Wilkinson",
+      "Mikhail Skutel",
+      "Andrew Santiago‐Frangos",
+      "Ava B. Graham",
+      "Alexei Livenskyi",
+      "Anna Chechenina",
+      "Natalia Morozova",
+      "Trevor Zahl",
+      "William S. Henriques",
+      "Murat Buyukyoruk",
+      "Christophe Rouillon",
+      "Baptiste Saudemont",
+      "Lena Shyrokova",
+      "Tatsuaki Kurata",
+      "Vasili Hauryliuk",
+      "Konstantin Severinov",
+      "Justine Groseille",
+      "Agnès Thierry",
+      "Romain Koszul",
+      "Florian Tesson",
+      "Aude Bernheim",
+      "David Bikard",
+      "Blake Wiedenheft",
+      "Artem Isaev",
+      "Pamela R. Tsoumbris",
+      "Russel M. Vincent",
+      "Paul R. Jaschke",
+      "Jason Nomburg",
+      "Erin Doherty",
+      "Nathan B. Price",
+      "Daniel Bellieny‐Rabelo",
+      "Yong K. Zhu",
+      "Jennifer A. Doudna",
+      "Colby T. Ford",
+      "Fengyuan Dai",
+      "Yuliang Fan",
+      "Jin Su",
+      "Chentong Wang",
+      "Chenchen Han",
+      "X.X. Zhou",
+      "Jianming Liu",
+      "Hui Qian",
+      "S. Y. Wang",
+      "Anping Zeng",
+      "Yajie Wang",
+      "Fajie Yuan"
+    ],
+    "papers": [
+      "https://openalex.org/W4401455507",
+      "https://openalex.org/W4401463754",
+      "https://openalex.org/W4401183982",
+      "https://openalex.org/W4401388952",
+      "https://openalex.org/W4401158647",
+      "https://openalex.org/W4401881945",
+      "https://openalex.org/W4391131578",
+      "https://openalex.org/W4401253880"
+    ],
+    "pageranks": [
+      0.009149068875921549,
+      0.009809219899663511,
+      0.004707241637129382,
+      0.007367751928218052,
+      0.002595401051754068,
+      0.008954862144152639,
+      0.006283761825884038,
+      0.003919565344691886
+    ],
+    "betweenness": [
+      1255.0248035064342,
+      802.3877143033868,
+      249.47599673929608,
+      688.349491046938,
+      4.3105399949427445,
+      992.4217021947197,
+      262.27963313152935,
+      40.40676790004377
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "label": "Biology / Medicine / Genetics",
+    "size": 21,
+    "authors": [
+      "Yuzhen Liu",
+      "Christopher D. McGann",
+      "Mary Krebs",
+      "Thomas A Perkins",
+      "Rose Fields",
+      "Conor K. Camplisson",
+      "David Z Nwizugbo",
+      "Chris Hsu",
+      "Shayan C. Avanessian",
+      "Ashley F. Tsue",
+      "Evan E. Kania",
+      "David M. Shechner",
+      "Brian J. Beliveau",
+      "Devin K. Schweppe",
+      "Diana Q. Lei",
+      "Elliot A. Hershberg",
+      "Xinxian Deng",
+      "Maryanne Kihiu",
+      "Shao‐En Ong",
+      "Christine M. Distèche",
+      "Sita Kugel",
+      "Zhijian Yang",
+      "Junhao Wen",
+      "Güray Erus",
+      "Sindhuja Tirumalai Govindarajan",
+      "Randa Melhem",
+      "Elizabeth Mamourian",
+      "Yuhan Cui",
+      "Dhivya Srinivasan",
+      "Ahmed Abdulkadir",
+      "Paraskevi Parmpi",
+      "Katharina Wittfeld",
+      "Hans J. Grabe",
+      "Robin Bülow",
+      "Stefan Frenzel",
+      "Duygu Tosun",
+      "Murat Bilgel",
+      "Yang An",
+      "Dahyun Yi",
+      "Daniel S. Marcus",
+      "Pamela LaMontagne",
+      "Tammie L.S. Benzinger",
+      "Susan R. Heckbert",
+      "Thomas R. Austin",
+      "Shari R. Waldstein",
+      "Michele K. Evans",
+      "Alan B. Zonderman",
+      "Lenore J. Launer",
+      "Aristeidis Sotiras",
+      "Mark A. Espeland",
+      "Colin L. Masters",
+      "Paul Maruff",
+      "Jürgen Fripp",
+      "Arthur W. Toga",
+      "Sid E. O’Bryant",
+      "M. Mallar Chakravarty",
+      "Sylvia Villeneuve",
+      "Sterling C. Johnson",
+      "John C. Morris",
+      "Marilyn Albert",
+      "Kristine Yaffe",
+      "Henry Völzke",
+      "Luigi Ferrucci",
+      "R. Nick Bryan",
+      "Russell T. Shinohara",
+      "Yong Fan",
+      "Mohamad Habes",
+      "Paris Alexandros Lalousis",
+      "Nikolaos Koutsouleris",
+      "David A. Wolk",
+      "Susan M. Resnick",
+      "Haochang Shou",
+      "Ilya M. Nasrallah",
+      "Christos Davatzikos",
+      "Shinya Imada",
+      "Saleh Khawaled",
+      "Heaji Shin",
+      "Sven W. Meckelmann",
+      "Charles A. Whittaker",
+      "Renan Oliveira Corrêa",
+      "Chiara Alquati",
+      "Yixin Lu",
+      "Guodong Tie",
+      "Dikshant Pradhan",
+      "Gizem Çalıbaşı Koçal",
+      "Luiza Martins Nascentes Melo",
+      "Gabriele Allies",
+      "Jonas Rösler",
+      "Pia Wittenhofer",
+      "Jonathan Krystkiewicz",
+      "Oliver J. Schmitz",
+      "Jatin Roper",
+      "Marco Aurélio Ramirez Vinolo",
+      "Luigi Ricciardiello",
+      "Evan C. Lien",
+      "Matthew G. Vander Heiden",
+      "Ramesh A. Shivdasani",
+      "Chia‐Wei Cheng",
+      "Alpaslan Tasdogan",
+      "Ömer H. Yilmaz",
+      "Haojun Yang",
+      "Vincenzo Andrea Zingaro",
+      "James Lincoff",
+      "Harrison Tom",
+      "Satoshi Oikawa",
+      "Juan A. Osés-Prieto",
+      "Quinn Edmondson",
+      "Ian B. Seiple",
+      "Hardik Shah",
+      "Shingo Kajimura",
+      "Alma L. Burlingame",
+      "Michael Grabe",
+      "Davide Ruggero",
+      "Elisabet A. Frick",
+      "Valur Emilsson",
+      "Þórarinn Jónmundsson",
+      "Anna E. Steindorsdottir",
+      "Erik C. B. Johnson",
+      "Raquel Puerta",
+      "Eric B. Dammer",
+      "Anantharaman Shantaraman",
+      "Amanda Cano",
+      "Merçé Boada",
+      "Sergi Valero",
+      "Pablo García‐González",
+      "Elías F. Guðmundsson",
+      "Alexander Guðjónsson",
+      "Rebecca Pitts",
+      "Xiazi Qiu",
+      "Nancy Finkel",
+      "Joseph Loureiro",
+      "Anthony P. Orth",
+      "Nicholas T. Seyfried",
+      "Allan I. Levey",
+      "Agustı́n Ruiz",
+      "Thor Aspelund",
+      "Lori L. Jennings",
+      "Valborg Guðmundsdóttir",
+      "Vilmundur Guðnason",
+      "Junhong Qin",
+      "Xinhe Huang",
+      "Shengsong Gou",
+      "Sitao Zhang",
+      "Yujie Gou",
+      "Qian Zhang",
+      "Hongyu Chen",
+      "Lin Sun",
+      "Miaomiao Chen",
+      "Dan Liu",
+      "Cheng Han",
+      "Min Tang",
+      "Zihao Feng",
+      "Shenghui Niu",
+      "Lin Zhao",
+      "Yingfeng Tu",
+      "Zexian Liu",
+      "Weimin Xuan",
+      "Lunzhi Dai",
+      "Da Jia",
+      "Yu Xue",
+      "Samuel A. Myers",
+      "Jason Wright",
+      "Ryan Peckner",
+      "Brian T. Kalish",
+      "Feng Zhang",
+      "Steven A. Carr",
+      "Alexa Pichet Binette",
+      "Chris Gaiteri",
+      "Malin Wennström",
+      "Atul Kumar",
+      "Inès Hristovska",
+      "Nicola Spotorno",
+      "Gemma Salvadó",
+      "Olof Strandberg",
+      "Hansruedi Mathys",
+      "Li‐Huei Tsai",
+      "Sebastian Palmqvist",
+      "Niklas Mattsson",
+      "Shorena Janelidze",
+      "Erik Stomrud",
+      "Jacob W. Vogel",
+      "Oskar Hansson",
+      "Matthew Eroglu",
+      "Tanner Zocher",
+      "Jacob McAuley",
+      "Rachel Webster",
+      "Maggie Z. X. Xiao",
+      "Bin Yu",
+      "Calvin Mok",
+      "W. Brent Derry",
+      "Giacomo Fabrini",
+      "Nada Farag",
+      "Sabrina Pia Nuccio",
+      "Shiyi Li",
+      "Jaimie Marie Stewart",
+      "Anli A. Tang",
+      "Reece McCoy",
+      "Róisı́n M. Owens",
+      "Paul W. K. Rothemund",
+      "Elisa Franco",
+      "Marco Di Antonio",
+      "Lorenzo Di Michele",
+      "Riddhiman K. Garge",
+      "Valerie Lynch",
+      "Silvia Casadei",
+      "S Best",
+      "Jeremy Stone",
+      "Matthew W. Snyder",
+      "Chris D McGann",
+      "Jay Shendure",
+      "Lea M. Starita",
+      "Nobuhiko Hamazaki",
+      "Hannah Boekweg",
+      "Amanda J. Guise",
+      "Edward D. Plowey",
+      "Ryan Kelly",
+      "Samuel Payne",
+      "Tian‐Shin Yeh",
+      "Gary C. Curhan",
+      "Barbara P. Yawn",
+      "Walter C. Willett",
+      "Sharon G. Curhan",
+      "Michael R. Duggan",
+      "Zhongsheng Peng",
+      "Pyry N. Sipilä",
+      "Joni V. Lindbohm",
+      "Jingsha Chen",
+      "Yifei Lü",
+      "Timothy J. Hohman",
+      "Shea J. Andrews",
+      "Julián Candia",
+      "Toshiko Tanaka",
+      "Cassandra M Joynes",
+      "Chelsea X. Alvarado",
+      "Mike A. Nalls",
+      "Jenifer Cordon",
+      "Gulzar N. Daya",
+      "Alexandria Lewis",
+      "Abhay Moghekar",
+      "Priya Palta",
+      "Josef Coresh",
+      "Mika Kivimäki",
+      "Keenan A. Walker",
+      "Shuangyi Cai",
+      "Thomas Hu",
+      "Abhijeet Venkataraman",
+      "Felix G Rivera Moctezuma",
+      "Efe Ozturk",
+      "Nicholas Zhang",
+      "M. Wang",
+      "Tatenda Zvidzai",
+      "Sandip Das",
+      "A Balakrishna Pillai",
+      "Frank Schneider",
+      "Suresh S. Ramalingam",
+      "You-Take Oh",
+      "Shi‐Yong Sun",
+      "Ahmet F. Coskun",
+      "Cheehoon Ahn",
+      "Tao Zhang",
+      "Gayoung Yang",
+      "Thomas Rode",
+      "Pallavi Varshney",
+      "Sophia J Ghayur",
+      "Olivia K. Chugh",
+      "Hui Jiang",
+      "Jeffrey F. Horowitz",
+      "Qinju He",
+      "Yuanzhen Zhang",
+      "Wenchao Li",
+      "Saisai Chen",
+      "Jiangling Xiong",
+      "Ruizhe Zhao",
+      "Kai Yuan",
+      "Qiang Hu",
+      "Song Liu",
+      "Guozhen Gao",
+      "Mark T. Bedford",
+      "Dean G. Tang",
+      "Bin Xu",
+      "Cheng Zou",
+      "Dingxiao Zhang",
+      "Joseph A. Baur",
+      "Kevin Pearson",
+      "Nathan L. Price",
+      "Hamish A. Jamieson",
+      "Carles Lerín",
+      "Avash Kalra",
+      "Vinayakumar Prabhu",
+      "Joanne Allard",
+      "Guillermo López‐Lluch",
+      "Kaitlyn N. Lewis",
+      "Paul J. Pistell",
+      "Suresh Poosala",
+      "Kevin G. Becker",
+      "Olivier Boss",
+      "Dana M. Gwinn",
+      "Mingyi Wang",
+      "Sharan Ramaswamy",
+      "Kenneth W. Fishbein",
+      "Richard G. Spencer",
+      "Edward G. Lakatta",
+      "David G. Le Couteur",
+      "Reuben J. Shaw",
+      "Plácido Navas",
+      "Pere Puigserver",
+      "Donald K. Ingram",
+      "Rafael de Cabo",
+      "David Sinclair",
+      "Catarina Rua",
+      "Betty Raman",
+      "Christopher T. Rodgers",
+      "Virginia Newcombe",
+      "Anne E. Manktelow",
+      "Doris A. Chatfield",
+      "Stephen Sawcer",
+      "Joanne Outtrim",
+      "Victoria Lupson",
+      "Emmanuel A. Stamatakis",
+      "Guy Williams",
+      "William T. Clarke",
+      "Lin Qiu",
+      "Martyn Ezra",
+      "Rory McDonald",
+      "Stuart Clare",
+      "Mark Philip Cassar",
+      "Stefan Neubauer",
+      "Karen D. Ersche",
+      "Edward T. Bullmore",
+      "David Menon",
+      "Kyle T.S. Pattinson",
+      "James B. Rowe",
+      "Mayar Allam"
+    ],
+    "papers": [
+      "https://openalex.org/W4400997979",
+      "https://openalex.org/W4317585644",
+      "https://openalex.org/W4401616283",
+      "https://openalex.org/W4401793565",
+      "https://openalex.org/W4401574091",
+      "https://openalex.org/W4401759787",
+      "https://openalex.org/W4401522252",
+      "https://openalex.org/W2799616694",
+      "https://openalex.org/W4401894680",
+      "https://openalex.org/W4402135518",
+      "https://openalex.org/W4401133093",
+      "https://openalex.org/W4402344336",
+      "https://openalex.org/W3157306853",
+      "https://openalex.org/W4401593859",
+      "https://openalex.org/W4401585050",
+      "https://openalex.org/W4403889828",
+      "https://openalex.org/W4402415809",
+      "https://openalex.org/W4402093652",
+      "https://openalex.org/W2125121177",
+      "https://openalex.org/W4403239792",
+      "https://openalex.org/W4402053404"
+    ],
+    "pageranks": [
+      0.012433326351923011,
+      0.01861652792908179,
+      0.00607853098751657,
+      0.007235832207863373,
+      0.0012936186450669455,
+      0.011646103416010283,
+      0.010212228453159845,
+      0.006842658222326681,
+      0.00511978008003491,
+      0.013014569467536083,
+      0.001245551116855967,
+      0.014332121684848851,
+      0.002970629924569334,
+      0.0021219874676644433,
+      0.0056683992622478694,
+      0.005601601589854788,
+      0.001279678329790499,
+      0.008755249283062287,
+      0.008366279100694384,
+      0.0015479042258195763,
+      0.0013886388704350745
+    ],
+    "betweenness": [
+      551.2373310657648,
+      2076.8034025254074,
+      566.7116786358571,
+      173.08128651873383,
+      0,
+      907.8925335652444,
+      776.602658502472,
+      198.02753512704706,
+      214.35637894967147,
+      907.6971363298152,
+      0,
+      1228.514029478805,
+      9.210736379776625,
+      0,
+      463.75311033953784,
+      453.4921234771919,
+      0,
+      112.94341164869692,
+      1049.0193911483711,
+      0,
+      0
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "label": "Computer science / Artificial intelligence / Psychology",
+    "size": 5,
+    "authors": [
+      "Marco Paoli",
+      "Antoine Wystrach",
+      "Brice Ronsin",
+      "Martín Giurfa",
+      "Ruijie Zhu",
+      "Skye Gunasekaran",
+      "Jason K. Eshraghian",
+      "Steven T. Piantadosi",
+      "Dyana C.Y. Muller",
+      "Joshua Rule",
+      "Karthikeya Kaushik",
+      "M. I. Gorenstein",
+      "Elena R. Leib",
+      "Emily Sanford",
+      "Linxuan He",
+      "Yunhui Xu",
+      "Weihua He",
+      "Yihan Lin",
+      "Yang Tian",
+      "Yujie Wu",
+      "Wenhui Wang",
+      "Ziyang Zhang",
+      "Junwei Han",
+      "Yonghong Tian",
+      "Bo Xu",
+      "Guoqi Li",
+      "Adam Marblestone",
+      "Greg Wayne",
+      "Konrad P. Körding"
+    ],
+    "papers": [
+      "https://openalex.org/W4401121700",
+      "https://openalex.org/W4401641170",
+      "https://openalex.org/W4401404441",
+      "https://openalex.org/W4401642626",
+      "https://openalex.org/W2951065015"
+    ],
+    "pageranks": [
+      0.0016316463804671884,
+      0.0016147401922595945,
+      0.0034106495583761907,
+      0.005330405040082176,
+      0.0063580324985742466
+    ],
+    "betweenness": [
+      0,
+      0,
+      27.3941676829415,
+      388.3039347152316,
+      505.50930964781907
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "label": "Rubric / Notice / CLARITY",
+    "size": 1,
+    "authors": [
+      "Alyssa Shi",
+      "Brooke Bier",
+      "Carrigan Price",
+      "Luke Schwartz",
+      "Devan Wainright",
+      "Audra Whithaus",
+      "Alison Abritis",
+      "Ivan Oransky",
+      "Misha Angrist"
+    ],
+    "papers": [
+      "https://openalex.org/W4400054728"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "label": "Downregulation and upregulation / Cancer research / Cell migration",
+    "size": 1,
+    "authors": [
+      "Wenzhou Liu",
+      "Feihai Liang",
+      "Guang‐Yu Yang",
+      "Lei Xian"
+    ],
+    "papers": [
+      "https://openalex.org/W3127861418"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "label": "Predation / Event (particle physics) / History",
+    "size": 1,
+    "authors": [
+      "Christine Ro"
+    ],
+    "papers": [
+      "https://openalex.org/W4401118302"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "label": "Computer science / Computational biology / Data science",
+    "size": 1,
+    "authors": [
+      "Christine Ro"
+    ],
+    "papers": [
+      "https://openalex.org/W4400778943"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "label": "Neuroscience / Alzheimer's disease / Amyloid (mycology)",
+    "size": 2,
+    "authors": [
+      "Andrew Octavian Sasmita",
+      "Constanze Depp",
+      "T. I. Nazarenko",
+      "Ting Sun",
+      "Sophie B. Siems",
+      "Erinne Cherisse Ong",
+      "Yakum Bertrand Nkeh",
+      "Carolin Böhler",
+      "Xuan Yu",
+      "Bastian Bues",
+      "Lisa Evangelista",
+      "Shuying Mao",
+      "Bárbara Morgado",
+      "Zoe Y. Wu",
+      "Torben Ruhwedel",
+      "Swati Subramanian",
+      "Friederike Börensen",
+      "Katharina Overhoff",
+      "Lena Spieth",
+      "Stefan A. Berghoff",
+      "Katherine R. Sadleir",
+      "Robert Vassar",
+      "Simone Eggert",
+      "Sandra Goebbels",
+      "Takashi Saito",
+      "Takaomi C. Saido",
+      "Gesine Saher",
+      "Wiebke Möbius",
+      "Gonçalo Castelo‐Branco",
+      "Hans‐Wolfgang Klafki",
+      "Oliver Wirths",
+      "Jens Wiltfang",
+      "Sarah Jäkel",
+      "Riqiang Yan",
+      "Klaus‐Armin Nave",
+      "Rikesh M. Rajani",
+      "Robert Ellingford",
+      "Mariam Hellmuth",
+      "Sam Harris",
+      "Orjona Taso",
+      "David Graykowski",
+      "Francesca Kar Wey Lam",
+      "Charles Arber",
+      "Emre Fertan",
+      "John S. H. Danial",
+      "Matthew Swire",
+      "Marcus Lloyd",
+      "Tatiana A. Giovannucci",
+      "Mathieu Bourdenx",
+      "David Klenerman",
+      "Selina Wray",
+      "Carlo Sala Frigerio",
+      "Marc Aurel Busche"
+    ],
+    "papers": [
+      "https://openalex.org/W4401339790",
+      "https://openalex.org/W4400906342"
+    ],
+    "pageranks": [
+      0.011708807868719289,
+      0.003507786972096833
+    ],
+    "betweenness": [
+      842.7206907706194,
+      83.32120706716286
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "label": "Training (meteorology) / Open source / Computer science",
+    "size": 1,
+    "authors": [
+      "Sami Jaghouar",
+      "Jack Min Ong",
+      "Johannes Hagemann"
+    ],
+    "papers": [
+      "https://openalex.org/W4400601282"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "label": "Cluster 13",
+    "size": 1,
+    "authors": [],
+    "papers": [],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "label": "Computational biology / DNA / Biology",
+    "size": 1,
+    "authors": [
+      "Iris Marchal"
+    ],
+    "papers": [
+      "https://openalex.org/W4401574708"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "label": "Biology / Computer science / Cell biology",
+    "size": 11,
+    "authors": [
+      "Laura Onac",
+      "Lorand Dobai",
+      "Andrei Mouraviev",
+      "Mihai A Badila",
+      "D. Yap",
+      "Samantha Kennedy",
+      "Annie L. Nguyen",
+      "Emi Gal",
+      "Daniel K. Sodickson",
+      "Robert J. Ju",
+      "Alistair D. Falconer",
+      "Christanny J. Schmidt",
+      "Marco A. Enríquez Martínez",
+      "Kevin M. Dean",
+      "Reto Fiolka",
+      "David P. Sester",
+      "Max Nobis",
+      "Paul Timpson",
+      "Alexis J. Lomakin",
+      "Gaudenz Danuser",
+      "Melanie D. White",
+      "Nikolas K. Haass",
+      "Dietmar Oelz",
+      "Samantha J. Stehbens",
+      "Vanessa I. Francis",
+      "Corin Liddle",
+      "Emma Camacho",
+      "Madhura Kulkarni",
+      "Samuel Rodrigues Dos Santos Júnior",
+      "Jamie A. Harvey",
+      "Elizabeth R. Ballou",
+      "Darren D. Thomson",
+      "Gordon D. Brown",
+      "J. Marie Hardwick",
+      "Arturo Casadevall",
+      "Jonathan Witton",
+      "Carolina Coelho",
+      "Zhuoran Geng",
+      "Timo Laakko",
+      "Ari Hokkanen",
+      "Caj Södergård",
+      "I. J. Maasilta",
+      "Pezhman Mohammadi",
+      "Tong Li",
+      "Dave Horsfall",
+      "Daniela Basurto-Lozada",
+      "Kenny Roberts",
+      "Martin Prete",
+      "John E. Lawrence",
+      "Peng He",
+      "Elisabeth Tuck",
+      "Josh Moore",
+      "A. Yoldaş",
+      "Kola Babalola",
+      "Matthew Hartley",
+      "Shila Ghazanfar",
+      "Sarah A. Teichmann",
+      "Muzlifah Haniffa",
+      "Omer Ali Bayraktar",
+      "Sumin Kim",
+      "Sébastien Phan",
+      "Hung Tri Tran",
+      "Thomas R. Shaw",
+      "Sarah H. Shahmoradian",
+      "Mark H. Ellisman",
+      "Sarah L. Veatch",
+      "Sami J. Barmada",
+      "Samuel S. Pappas",
+      "William T. Dauer",
+      "Estibaliz Gómez‐de‐Mariscal",
+      "Hanna Grobe",
+      "Joanna W. Pylvänäinen",
+      "Laura Xénard",
+      "Ricardo Henriques",
+      "Jean‐Yves Tinevez",
+      "Guillaume Jacquemet",
+      "Liying Qu",
+      "Shiqun Zhao",
+      "Yuanyuan Huang",
+      "Xianxin Ye",
+      "Kunhao Wang",
+      "Yuzhen Liu",
+      "Xianming Liu",
+      "Heng Mao",
+      "Guangwei Hu",
+      "Wei Chen",
+      "Changliang Guo",
+      "Jiaye He",
+      "Jiubin Tan",
+      "Haoyu Li",
+      "Liangyi Chen",
+      "Weisong Zhao",
+      "Johanna V. Rahm",
+      "Ashwin Balakrishnan",
+      "Maren H. Wehrheim",
+      "Alexandra Kaminer",
+      "Marius Glogger",
+      "Laurell F. Kessler",
+      "Matthias Kaschube",
+      "Hans‐Dieter Barth",
+      "Mike Heilemann",
+      "Pyae Hein Htet",
+      "Edward Avezov",
+      "Eric Lauga",
+      "Alison J. North",
+      "Ved P. Sharma",
+      "Christina Pyrgaki",
+      "John Lim S.Y.",
+      "Sharanjeet Atwal",
+      "Kittirat Saharat",
+      "Graham Wright",
+      "Jeanne Salje"
+    ],
+    "papers": [
+      "https://openalex.org/W4401574959",
+      "https://openalex.org/W4401705169",
+      "https://openalex.org/W4393040203",
+      "https://openalex.org/W4401584193",
+      "https://openalex.org/W4401685352",
+      "https://openalex.org/W4401428716",
+      "https://openalex.org/W4401417076",
+      "https://openalex.org/W4402459556",
+      "https://openalex.org/W4401111938",
+      "https://openalex.org/W4403130013",
+      "https://openalex.org/W4401593871"
+    ],
+    "pageranks": [
+      0.0018902209108654809,
+      0.004230521118239316,
+      0.006207034633877914,
+      0.006207034633877914,
+      0.0012716516593845118,
+      0.0070712117643041686,
+      0.009695368850602728,
+      0.006982369150284275,
+      0.011374394639372197,
+      0.0017028665964232703,
+      0.009327028526875732
+    ],
+    "betweenness": [
+      0,
+      80.67718308828859,
+      0,
+      0,
+      0,
+      67.27589365930731,
+      776.5852295684516,
+      353.8840356649742,
+      842.0186379292676,
+      0,
+      352.6052614078392
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "label": "Medicine / Psychology / Disease",
+    "size": 3,
+    "authors": [
+      "Jiahao Min",
+      "Zhi Cao",
+      "Tingshan Duan",
+      "Yaogang Wang",
+      "Chenjie Xu",
+      "Sebastián Moguilner",
+      "Sandra Báez",
+      "Hernán Hernandez",
+      "Joaquín Migeot",
+      "Agustina Legaz",
+      "Raúl González-Gómez",
+      "Francesca R Farina",
+      "Pavel Prado",
+      "Jhosmary Cuadros",
+      "Enzo Tagliazucchi",
+      "Florencia Altschuler",
+      "Marcelo Maito",
+      "Maria Eugenia Godoy",
+      "Josephine Cruzat",
+      "Pedro A. Valdés‐Sosa",
+      "Francisco Lopera",
+      "John Fredy Ochoa Gómez",
+      "Alfredis González‐Hernández",
+      "Jasmín Bonilla-Santos",
+      "Rodrigo A. Gonzalez‐Montealegre",
+      "Renato Anghinah",
+      "Luís E. d’Almeida Manfrinati",
+      "Sol Fittipaldi",
+      "Vicente Medel",
+      "Daniela Olivares",
+      "Görsev Yener",
+      "Javier Escudero",
+      "Claudio Babiloni",
+      "Robert Whelan",
+      "Bahar Güntekin",
+      "Harun Yırıkoğulları",
+      "Hernando Santamaría‐García",
+      "Alberto Fernández",
+      "David Huepe",
+      "Gaetano Di Caterina",
+      "Marcio Soto‐Añari",
+      "Agustina Birba",
+      "Agustín Sainz‐Ballesteros",
+      "Carlos Coronel‐Oliveros",
+      "Amanuel Yigezu",
+      "Eduar Herrera",
+      "Daniel Abásolo",
+      "Kerry Kilborn",
+      "Nicolás Rubido",
+      "Ruaridh Clark",
+      "Rubén Herzog",
+      "Deniz Yerlikaya",
+      "Kun Hu",
+      "Mario A. Parra",
+      "Pablo Reyes",
+      "Adolfo M. García",
+      "Diana Matallana",
+      "José Alberto Ávila‐Funes",
+      "Andrea Slachevsky",
+      "María Isabel Behrens",
+      "Nilton Custodio",
+      "Juan F. Cardona",
+      "Pablo Barttfeld",
+      "Ignacio L. Brusco",
+      "Martín A. Bruno",
+      "Ana L. Sosa Ortiz",
+      "Stefanie Danielle Piña‐Escudero",
+      "Leonel Tadao Takada",
+      "Elisa de Paula França Resende",
+      "Katherine L. Possin",
+      "Maira Okada de Oliveira",
+      "Alejandro López Valdés",
+      "Brian Lawlor",
+      "Ian H. Robertson",
+      "Kenneth S. Kosik",
+      "Claudia Durán-Aniotz",
+      "Victor Valcour",
+      "Jennifer S. Yokoyama",
+      "Bruce Miller",
+      "Agustín Ibáñez",
+      "Tadeja Gračner",
+      "Claire Boone",
+      "Paul Gertler"
+    ],
+    "papers": [
+      "https://openalex.org/W4401759673",
+      "https://openalex.org/W4401894695",
+      "https://openalex.org/W4403925084"
+    ],
+    "pageranks": [
+      0.004852779936909827,
+      0.003392537094139389,
+      0.004290253405505997
+    ],
+    "betweenness": [
+      46.1315233130119,
+      20.845597108612655,
+      14.812025252187523
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "label": "Biology / Genome editing / Computational biology",
+    "size": 3,
+    "authors": [
+      "Marvin C. Collins",
+      "Matthew B. Lau",
+      "William Ma",
+      "Aidan Shen",
+      "Brenda Wang",
+      "Sa Cai",
+      "Marie La Russa",
+      "Michael C. Jewett",
+      "Lei S. Qi",
+      "Sean R. McCutcheon",
+      "Dahlia Rohm",
+      "Nahid Iglesias",
+      "Charles A. Gersbach",
+      "Amod A. Sarnaik",
+      "Patrick Hwu",
+      "James J. Mulé",
+      "Shari Pilon‐Thomas"
+    ],
+    "papers": [
+      "https://openalex.org/W4401241830",
+      "https://openalex.org/W4401091940",
+      "https://openalex.org/W4400775784"
+    ],
+    "pageranks": [
+      0.0029476870194504725,
+      0.007217472844156509,
+      0.0013315106641202468
+    ],
+    "betweenness": [
+      49.779936077307006,
+      459.14920760040945,
+      0
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "label": "Cheating / Ageing / Psychoanalysis",
+    "size": 1,
+    "authors": [
+      "Jan H.J. Hoeijmakers"
+    ],
+    "papers": [
+      "https://openalex.org/W4401757971"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "label": "Dihydrofolate reductase / Computational biology / Throughput",
+    "size": 1,
+    "authors": [
+      "Tandac F. Guclu",
+      "Busra Tayhan",
+      "Ebru Çetin",
+      "Ali Rana Atılgan",
+      "Canan Atılgan"
+    ],
+    "papers": [
+      "https://openalex.org/W4401809312"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "label": "Medicine / Internal medicine / Obesity",
+    "size": 8,
+    "authors": [
+      "Federico Mason",
+      "Amitabh C. Pandey",
+      "Matteo Gadaleta",
+      "Eric J. Topol",
+      "Evan D. Muse",
+      "Giorgio Quer",
+      "Timon E. Adolph",
+      "Herbert Tilg",
+      "Edward W. Gregg",
+      "Adrian Pratt",
+      "Alex Owens",
+      "Emma Barron",
+      "Rupert Dunbar-Rees",
+      "Eirion Slade",
+      "Nasrin Hafezparast",
+      "Chirag Bakhai",
+      "Paul Chappell",
+      "Victoria Cornelius",
+      "Desmond G. Johnston",
+      "Jacqueline Mathews",
+      "Jason Pickles",
+      "Ellie Bragan Turner",
+      "Gary Wainman",
+      "Kate Roberts",
+      "Kamlesh Khunti",
+      "Jonathan Valabhji",
+      "Faidon Magkos",
+      "Thorkild I. A. Sørensen",
+      "David Raubenheimer",
+      "Nikhil V. Dhurandhar",
+      "Ruth J. F. Loos",
+      "Anja Bosy‐Westphal",
+      "Christoffer Clemmensen",
+      "Mads F. Hjorth",
+      "David B. Allison",
+      "Gary Taubes",
+      "Éric Ravussin",
+      "Mark I. Friedman",
+      "Kevin D. Hall",
+      "David S. Ludwig",
+      "John R. Speakman",
+      "Arne Astrup",
+      "Jens J. Holst",
+      "Konstantinos C. Koskinas",
+      "Emeline M. Van Craenenbroeck",
+      "Charalambos Antoniades",
+      "Matthias Blüher",
+      "Thomas M. Gorter",
+      "Henner Hanssen",
+      "Nikolaus Marx",
+      "Theresa A. McDonagh",
+      "Geltrude Mingrone",
+      "Annika Rosengren",
+      "Eva Prescott",
+      "Victor Aboyans",
+      "Carina Blomström‐Lundqvist",
+      "Jens Cosedis Nielsen",
+      "Erwan Donal",
+      "Wolfram Döhner",
+      "Marc Ferrini",
+      "Sigrun Halvorsen",
+      "Christian Hassager",
+      "Kurt Huber",
+      "Stefan James",
+      "Christophe Leclercq",
+      "Cecilia Linde",
+      "John W. McEvoy",
+      "John J.V. McMurray",
+      "Borislava Mihaylova",
+      "Richard Mindham",
+      "Steffen E. Petersen",
+      "Massimo Piepoli",
+      "Amina Rakisheva",
+      "Xavier Rosselló",
+      "Piotr Szymański",
+      "Izabella Uchmanowicz",
+      "Christiaan Vrints",
+      "Stephan Windecker",
+      "Adam Witkowski",
+      "Katja Zeppenfeld",
+      "Michael Schaefer",
+      "Anja Kühnel",
+      "Sören Enge",
+      "Bao Yang",
+      "Qian Wang",
+      "Yin Li",
+      "Sanbao Zhang",
+      "Yanjie Sun",
+      "Yangyang Wei",
+      "Qinyang Jiang",
+      "Yanna Huang"
+    ],
+    "papers": [
+      "https://openalex.org/W4401222756",
+      "https://openalex.org/W4401184193",
+      "https://openalex.org/W4401222958",
+      "https://openalex.org/W4401729065",
+      "https://openalex.org/W4401702015",
+      "https://openalex.org/W4402065998",
+      "https://openalex.org/W4402489547",
+      "https://openalex.org/W4403118403"
+    ],
+    "pageranks": [
+      0.0026353415352835708,
+      0.00917699969244412,
+      0.002017044214007,
+      0.002221521846088504,
+      0.003399372000842315,
+      0.006623631107908901,
+      0.0037870484176796594,
+      0.001983439219337808
+    ],
+    "betweenness": [
+      0,
+      1010.2880210988591,
+      8.774689929953087,
+      0,
+      70.61104044816221,
+      113.46436462823503,
+      8.013468013468012,
+      29.722071630798013
+    ]
+  },
+  {
+    "cluster_id": 21,
+    "label": "Electroencephalography / Modalities / Computer science",
+    "size": 1,
+    "authors": [
+      "Rosmary Blanco",
+      "Cemal Koba",
+      "Alessandro Crimi"
+    ],
+    "papers": [
+      "https://openalex.org/W4401502353"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "label": "Interface (matter) / Natural language / Computer science",
+    "size": 1,
+    "authors": [
+      "Jakob Nikolas Kather",
+      "Dyke Ferber",
+      "Isabella C. Wiest",
+      "Stephen Gilbert",
+      "Daniel Truhn"
+    ],
+    "papers": [
+      "https://openalex.org/W4401797860"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "label": "Biology / Medicine / Neuroscience",
+    "size": 7,
+    "authors": [
+      "Livio Oboti",
+      "Federico Pedraja",
+      "Marie Ritter",
+      "Marlena Lohse",
+      "Lennart Klette",
+      "Rüdiger Krahe",
+      "Lukas Heumos",
+      "Yuge Ji",
+      "L T May",
+      "Tessa D. Green",
+      "Xinyue Zhang",
+      "Xichen Wu",
+      "Johannes Ostner",
+      "Stefan Peidli",
+      "Antonia Schumacher",
+      "Karin Hrovatin",
+      "Michaela Müller",
+      "Faye Chong",
+      "Gregor Sturm",
+      "Alejandro Tejada",
+      "Emma Dann",
+      "Mingze Dong",
+      "Mojtaba Bahrami",
+      "Ilan Gold",
+      "Sergei Rybakov",
+      "Altana Namsaraeva",
+      "Amir Ali Moinfar",
+      "Zihe Zheng",
+      "Eljas Roellin",
+      "Isra Mekki",
+      "Chris Sander",
+      "Mohammad Lotfollahi",
+      "Herbert B. Schiller",
+      "Fabian J. Theis",
+      "Xinyue Chen",
+      "Yin Huang",
+      "Liang‐Feng Huang",
+      "Ziliang Huang",
+      "Zhao-Zhe Hao",
+      "Lahong Xu",
+      "Nana Xu",
+      "Zhi Li",
+      "Yonggao Mou",
+      "Mingli Ye",
+      "Renke You",
+      "Xuegong Zhang",
+      "Sheng Liu",
+      "Zhichao Miao",
+      "Aaron Bodansky",
+      "Robert C. Mettelman",
+      "Joseph J. Sabatino",
+      "Sara E. Vazquez",
+      "Janet Chou",
+      "Tanya Novak",
+      "Kristin Moffitt",
+      "Haleigh S. Miller",
+      "Andrew F. Kung",
+      "Elze Rackaityte",
+      "Colin R. Zamecnik",
+      "Jayant V. Rajan",
+      "Hannah Kortbawi",
+      "Caleigh Mandel‐Brehm",
+      "Anthea Mitchell",
+      "Chung‐Yu Wang",
+      "Aditi Saxena",
+      "Kelsey C. Zorn",
+      "David Yu",
+      "Mikhail V. Pogorelyy",
+      "Walid Awad",
+      "Allison M. Kirk",
+      "James Asaki",
+      "John V. Pluvinage",
+      "Michael R. Wilson",
+      "Laura D. Zambrano",
+      "Angela P. Campbell",
+      "Laura L. Loftis",
+      "Charlotte V. Hobbs",
+      "Keiko M. Tarquinio",
+      "Michele Kong",
+      "Julie C. Fitzgerald",
+      "Paula S. Espinal",
+      "Tracie C. Walker",
+      "Stephanie P. Schwartz",
+      "Hillary Crandall",
+      "Katherine Irby",
+      "Mary Allen Staat",
+      "Courtney M. Rowan",
+      "Jennifer E. Schuster",
+      "Natasha Halasa",
+      "Shira J. Gertz",
+      "Elizabeth H. Mack",
+      "Aline B. Maddux",
+      "Natalie Z. Cvijanovich",
+      "Matt S. Zinter",
+      "Paul G. Thomas",
+      "Adrienne G. Randolph",
+      "Mark S. Anderson",
+      "Joseph L. DeRisi",
+      "Minoru Takaoka",
+      "Xiaohui Zhao",
+      "Hwee Ying Lim",
+      "Costan G. Magnussen",
+      "Owen Ang",
+      "Nadine Suffee",
+      "Patricia R. Schrank",
+      "Wei Siong Ong",
+      "Dimitrios Tsiantoulas",
+      "Felix Sommer",
+      "Sarajo K. Mohanta",
+      "James Harrison",
+      "Yaxing Meng",
+      "Ludivine Laurans",
+      "Feitong Wu",
+      "Yuning Lu",
+      "Leanne Masters",
+      "Stephen A. Newland",
+      "Laura Denti",
+      "Mingyang Hong",
+      "Mouna Chajadine",
+      "Markus Juonala",
+      "Juhani S. Koskinen",
+      "Mika Kähönen",
+      "Katja Pahkala",
+      "Suvi Rovio",
+      "Juha Mykkänen",
+      "Russell Thomson",
+      "Tsuneyasu Kaisho",
+      "Andreas J. R. Habenicht",
+      "Marc Clément",
+      "Alain Tedgui",
+      "Hafid Ait‐Oufella",
+      "Tian Zhao",
+      "Meritxell Nus",
+      "Christiana Ruhrberg",
+      "Soraya Taleb",
+      "Jesse W. Williams",
+      "Olli T. Raitakari",
+      "Véronique Angeli",
+      "Ziad Mallat",
+      "Celia Dobersalske",
+      "Laurèl Rauschenbach",
+      "Yichao Hua",
+      "Christoph Berliner",
+      "Anita Steinbach",
+      "Anika Grüneboom",
+      "Konstantinos D. Kokkaliaris",
+      "Dieter Henrik Heiland",
+      "Pia Berger",
+      "Sarah Langer",
+      "Chin Leng Tan",
+      "M Stenzel",
+      "Somaya Landolsi",
+      "Flora Weber",
+      "Marvin Darkwah Oppong",
+      "Rudolf A. Werner",
+      "Hanah Gull",
+      "Thomas Schröder",
+      "Thomas Linsenmann",
+      "Andreas K. Buck",
+      "Matthias Gunzer",
+      "Martin Stuschke",
+      "Kathy Keyvani",
+      "Michael Forsting",
+      "Martin Glas",
+      "Jonathan Kipnis",
+      "Dennis A. Steindler",
+      "Hans Christian Reinhardt",
+      "Edward W. Green",
+      "Michael Platten",
+      "Alpaslan Tasdogan",
+      "Ken Herrmann",
+      "Florian Rambow",
+      "Igor Cima",
+      "Ulrich Sure",
+      "Björn Scheffler",
+      "Cinzia Vicidomini",
+      "Travis D. Goode",
+      "Kathleen M. McAvoy",
+      "Ruilin Yu",
+      "Conor H. Beveridge",
+      "Sanjay Iyer",
+      "Matheus B. Victor",
+      "Noelle Leary",
+      "Liam Evans",
+      "Michael J. Steinbaugh",
+      "Zon Weng Lai",
+      "Marina C. Lyon",
+      "Manuel Rico F.S Silvestre",
+      "Gracia Bonilla",
+      "Ruslan I. Sadreyev",
+      "Tobias C. Walther",
+      "Shannan Ho Sui",
+      "Takaomi C. Saido",
+      "Kei Yamamoto",
+      "Makoto Murakami",
+      "Li‐Huei Tsai",
+      "Gaurav Chopra",
+      "Amar Sahay"
+    ],
+    "papers": [
+      "https://openalex.org/W4401612962",
+      "https://openalex.org/W4401390661",
+      "https://openalex.org/W4401242470",
+      "https://openalex.org/W4401389004",
+      "https://openalex.org/W4402220807",
+      "https://openalex.org/W4401184252",
+      "https://openalex.org/W4401011018"
+    ],
+    "pageranks": [
+      0.0013193319351377964,
+      0.011082522102045815,
+      0.008653801045296897,
+      0.005523069208182132,
+      0.0071133854718444705,
+      0.005402758817978396,
+      0.0071449437311522455
+    ],
+    "betweenness": [
+      0,
+      631.8747937849574,
+      518.160167435116,
+      251.03471556979866,
+      424.08555094185414,
+      101.4184127877806,
+      528.8189717904511
+    ]
+  },
+  {
+    "cluster_id": 24,
+    "label": "Biology / Medicine / Computational biology",
+    "size": 9,
+    "authors": [
+      "M. Austin Argentieri",
+      "Sihao Xiao",
+      "Derrick Bennett",
+      "Laura Winchester",
+      "Alejo Nevado‐Holgado",
+      "Upamanyu Ghose",
+      "Ashwag Albukhari",
+      "Pang Yao",
+      "Mohsen Mazidi",
+      "Jun Lv",
+      "Iona Y. Millwood",
+      "Hannah Fry",
+      "Rodosthenis S. Rodosthenous",
+      "Jukka Partanen",
+      "Zhili Zheng",
+      "Mitja Kurki",
+      "Mark J. Daly",
+      "Aarno Palotie",
+      "Cassandra Adams",
+      "Liming Li",
+      "Robert Clarke",
+      "Najaf Amin",
+      "Zhengming Chen",
+      "Cornelia M. van Duijn",
+      "Xiaotao Shen",
+      "Chuchu Wang",
+      "Xin Zhou",
+      "Wenyu Zhou",
+      "Daniel Hornburg",
+      "Si Wu",
+      "M Snyder",
+      "Varun B. Dwaraka",
+      "Lucia Aronica",
+      "Natàlia Carreras-Gallo",
+      "Jennifer L. Robinson",
+      "Tayler Hennings",
+      "Matthew M. Carter",
+      "Michael J. Corley",
+      "Aaron E. Lin",
+      "Logan Turner",
+      "Ryan Smith",
+      "Tavis L. Mendez",
+      "Hannah Went",
+      "Emily R. Ebel",
+      "Erica D. Sonnenburg",
+      "Justin L. Sonnenburg",
+      "Christopher D. Gardner",
+      "Carola G. Vinuesa",
+      "Yuke He",
+      "Matthew Cook",
+      "Ken Raj",
+      "Balázs Szladovits",
+      "Amin Haghani",
+      "Joseph A. Zoller",
+      "Caesar Z. Li",
+      "Pete Black",
+      "Dewey Maddox",
+      "Todd R. Robeck",
+      "Steve Horvath",
+      "Rachel Sparks",
+      "Nicholas Rachmaninoff",
+      "William Lau",
+      "Dylan Hirsch",
+      "Neha Bansal",
+      "Andrew J. Martins",
+      "Jinguo Chen",
+      "Candace C. Liu",
+      "Foo Cheung",
+      "Laura Failla",
+      "Angélique Biancotto",
+      "Giovanna Fantoni",
+      "Brian A. Sellers",
+      "Daniel G. Chawla",
+      "Katherine Howe",
+      "Darius Mostaghimi",
+      "Rohit Farmer",
+      "Yuri Kotliarov",
+      "Katherine R. Calvo",
+      "Cindy Palmer",
+      "Janine Daub",
+      "Ladan Foruraghi",
+      "Samantha Kreuzburg",
+      "Jennifer Treat",
+      "Amanda Urban",
+      "Anne Jones",
+      "Tina Romeo",
+      "Natalie Deuitch",
+      "Natalia Sampaio Moura",
+      "Barbara Weinstein",
+      "Susan Moir",
+      "Luigi Ferrucci",
+      "Karyl S. Barron",
+      "Ivona Aksentijevich",
+      "Steven H. Kleinstein",
+      "Danielle M. Townsley",
+      "Neal S. Young",
+      "Pamela A. Frischmeyer‐Guerrerio",
+      "Gülbu Uzel",
+      "Gineth Paola Pinto-Patarroyo",
+      "Cornelia Cudrici",
+      "Patrycja Hoffmann",
+      "Deborah L. Stone",
+      "Amanda K. Ombrello",
+      "Alexandra F. Freeman",
+      "Christa S. Zerbe",
+      "Daniel L. Kastner",
+      "Steven M. Holland",
+      "John S. Tsang",
+      "Benoit Lehallier",
+      "David Gate",
+      "Nicholas Schaum",
+      "Tibor Nánási",
+      "Song Eun Lee",
+      "Hanadie Yousef",
+      "Patricia Morán Losada",
+      "Daniela Berdnik",
+      "Andreas Keller",
+      "Joe Verghese",
+      "Sanish Sathyan",
+      "Claudio Franceschi",
+      "Sofiya Milman",
+      "Nir Barzilai",
+      "Tony Wyss‐Coray",
+      "Sheng Fong",
+      "Kamil Pabis",
+      "Djakim Latumalea",
+      "Nomuundari Dugersuren",
+      "Maximilian Unfried",
+      "Nicholas S. Tolwinski",
+      "Brian K. Kennedy",
+      "Jan Gruber",
+      "Juan José Alba‐Linares",
+      "Juan Ramón Tejedor",
+      "Agustín F. Fernández",
+      "Raúl F. Pérez",
+      "Mario F. Fraga"
+    ],
+    "papers": [
+      "https://openalex.org/W4401427258",
+      "https://openalex.org/W4401585036",
+      "https://openalex.org/W4401064170",
+      "https://openalex.org/W4402276928",
+      "https://openalex.org/W3196970651",
+      "https://openalex.org/W4400294266",
+      "https://openalex.org/W2994160326",
+      "https://openalex.org/W4399809566",
+      "https://openalex.org/W4402335628"
+    ],
+    "pageranks": [
+      0.012809914705743197,
+      0.005345240696582154,
+      0.004798835641651213,
+      0.0017361818631728054,
+      0.004359106700999773,
+      0.010448081895945371,
+      0.010694114960435368,
+      0.007156764420096575,
+      0.004746320746880696
+    ],
+    "betweenness": [
+      1380.068663426814,
+      215.8445125382417,
+      216.56500897969377,
+      0,
+      22.435308870011628,
+      611.1991098865774,
+      348.9522400931954,
+      202.50023090781056,
+      77.68411025474914
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "label": "Biology / Genetics / Gene",
+    "size": 3,
+    "authors": [
+      "Thomas Brochard",
+      "Rebecca L. McIntyre",
+      "Riekelt H. Houtkooper",
+      "Andrei Seluanov",
+      "Vera Gorbunova",
+      "Georges E. Janssens",
+      "Manfred Schartl",
+      "Joost M. Woltering",
+      "Iker Irisarri",
+      "Kang Du",
+      "Susanne Kneitz",
+      "Martin Pippel",
+      "Tom Brown",
+      "Paolo Franchini",
+      "Jing Li",
+      "Ming Li",
+      "Mateus Contar Adolfi",
+      "Sylke Winkler",
+      "Josane F. Sousa",
+      "Zhuoxin Chen",
+      "Sandra Jacinto",
+      "Evgeny Z. Kvon",
+      "Luis Rogério Correa de Oliveira",
+      "Erika Monteiro",
+      "Danielson Baia Amaral",
+      "Thorsten Burmester",
+      "Domitille Chalopin",
+      "Alexander Suh",
+      "Eugene W. Myers",
+      "Oleg Simakov",
+      "Igor Schneider",
+      "Axel Meyer",
+      "Yang Zhao",
+      "Ena Oreskovic",
+      "Quanwei Zhang",
+      "Quan Lu",
+      "Abbey Gilman",
+      "Yifei Lin",
+      "Junyue He",
+      "Zhizhong Zheng",
+      "J. Yuyang Lu",
+      "Jina Lee",
+      "Zhonghe Ke",
+      "Julia Ablaeva",
+      "Matthew J. Sweet",
+      "Steve Horvath",
+      "Zhengdong Zhang",
+      "Eviatar Nevo"
+    ],
+    "papers": [
+      "https://openalex.org/W4388802380",
+      "https://openalex.org/W4401572433",
+      "https://openalex.org/W3200783369"
+    ],
+    "pageranks": [
+      0.005254953795779173,
+      0.0041708792206780355,
+      0.006948741966140303
+    ],
+    "betweenness": [
+      191.87932975757548,
+      215.30484377751355,
+      280.8679862893403
+    ]
+  },
+  {
+    "cluster_id": 26,
+    "label": "Biology / Genetics / Gene",
+    "size": 8,
+    "authors": [
+      "Jiecong Lin",
+      "Ruibang Luo",
+      "Luca Pinello",
+      "Jack A. Kosmicki",
+      "Anthony Marcketta",
+      "Deepika Sharma",
+      "Silvio Alessandro Di Gioia",
+      "Samantha Batista",
+      "Xiaoman Yang",
+      "Gannie Tzoneva",
+      "Héctor Martínez",
+      "Carlo Sidore",
+      "Michael D. Kessler",
+      "Julie Horowitz",
+      "Genevieve H. L. Roberts",
+      "Anne E. Justice",
+      "Nilanjana Banerjee",
+      "Marie V. Coignet",
+      "Joseph B. Leader",
+      "Danny S. Park",
+      "Rouel Lanche",
+      "Evan K. Maxwell",
+      "Spencer C. Knight",
+      "Xiaodong Bai",
+      "Harendra Guturu",
+      "Asher K. Haug Baltzell",
+      "Ahna R. Girshick",
+      "Shannon McCurdy",
+      "Raghavendran Partha",
+      "Adam J. Mansfield",
+      "David A. Turissini",
+      "Miao Zhang",
+      "Joelle Mbatchou",
+      "Kyoko Watanabe",
+      "Anurag Verma",
+      "Giorgio Sirugo",
+      "Kristy Crooks",
+      "James R. Cerhan",
+      "Daniel H. Geschwind",
+      "Marylyn D. Ritchie",
+      "William Salerno",
+      "Alan R. Shuldiner",
+      "Daniel J. Rader",
+      "Tooraj Mirshahi",
+      "Jonathan Marchini",
+      "John D. Overton",
+      "David J. Carey",
+      "Lukas Habegger",
+      "Jeffrey G. Reid",
+      "Aris N. Economides",
+      "Christos A. Kyratsous",
+      "Katia Karalis",
+      "Alina Baum",
+      "Michael Cantor",
+      "Kristin A. Rand",
+      "Eurie L. Hong",
+      "Catherine A. Ball",
+      "Katherine Siminovitch",
+      "Aris Baras",
+      "Gonçalo R. Abecasis",
+      "Manuel A. R. Ferreira",
+      "Jie Zheng",
+      "Jieli Lu",
+      "Jiying Qi",
+      "Qian Yang",
+      "Huiling Zhao",
+      "Haoyu Liu",
+      "Zhihe Chen",
+      "Lanhui Huang",
+      "Youqiong Ye",
+      "Min Xu",
+      "Yu Xu",
+      "Tiange Wang",
+      "Mian Li",
+      "Zhiyun Zhao",
+      "Ruizhi Zheng",
+      "Shuangyuan Wang",
+      "Hong Lin",
+      "Chunyan Hu",
+      "Celine Sze Ling Chui",
+      "Shiu Lun Au Yeung",
+      "Shan Luo",
+      "Olympia Dimopoulou",
+      "Padraig Dixon",
+      "Sean Harrison",
+      "Yi Liu",
+      "Jamie Robinson",
+      "James Yarmolinsky",
+      "Philip Haycock",
+      "Jinqiu Yuan",
+      "Sarah Lewis",
+      "Zhongshang Yuan",
+      "Tom R. Gaunt",
+      "George Davey Smith",
+      "Guang Ning",
+      "Richard M. Martin",
+      "Bin Cui",
+      "Weiqing Wang",
+      "Yufang Bi",
+      "Stasa Stankovic",
+      "Saleh Shekari",
+      "Qin Qin Huang",
+      "Eugene J. Gardner",
+      "Erna V. Ivarsdottir",
+      "Nick Owens",
+      "Nasim Mavaddat",
+      "Ajuna Azad",
+      "Gareth Hawkes",
+      "Katherine A. Kentistou",
+      "Robin N. Beaumont",
+      "Felix R. Day",
+      "Yajie Zhao",
+      "Hákon Jónsson",
+      "Þórunn Rafnar",
+      "Vinicius Tragante",
+      "Garðar Sveinbjörnsson",
+      "Ásmundur Oddsson",
+      "Unnur Styrkársdóttir",
+      "Jūlı́us Guðmundsson",
+      "Simon Stacey",
+      "Daníel F. Guðbjartsson",
+      "Kitale Kennedy",
+      "Andrew R. Wood",
+      "Michael N. Weedon",
+      "Ken K. Ong",
+      "Caroline F. Wright",
+      "Eva R. Hoffmann",
+      "Patrick Sulem",
+      "Matthew E. Hurles",
+      "Katherine S. Ruth",
+      "Hilary C. Martin",
+      "Kári Stéfansson",
+      "John R. B. Perry",
+      "Anna Murray",
+      "Anne Goriely",
+      "Sean J. Jurgens",
+      "Xin Wang",
+      "Seung Hoan Choi",
+      "Lu‐Chen Weng",
+      "Satoshi Koyama",
+      "James P. Pirruccello",
+      "Trang Thi Huyen Nguyen",
+      "Patrick Smadbeck",
+      "Dongkeun Jang",
+      "Mark Chaffin",
+      "Roddy Walsh",
+      "Carolina Roselli",
+      "Amanda L. Elliott",
+      "Leonoor F. J. M. Wijdeveld",
+      "Kiran J. Biddinger",
+      "Shinwan Kany",
+      "Joel Rämö",
+      "Pradeep Natarajan",
+      "Krishna G. Aragam",
+      "Jason Flannick",
+      "Noël P. Burtt",
+      "Connie R. Bezzina",
+      "Steven A. Lubitz",
+      "Kathryn L. Lunetta",
+      "Patrick T. Ellinor",
+      "Manuel Tardáguila",
+      "Dominique Von Schiller",
+      "M. Colombo",
+      "Ilaria Gori",
+      "Eve L. Coomber",
+      "Thomas Vanderstichele",
+      "Paola Benaglio",
+      "Chiara Chiereghin",
+      "Sebastian S. Gerety",
+      "Dragana Vuckovic",
+      "Arianna Landini",
+      "Giuditta Clerici",
+      "Patrick K. Albers",
+      "Helen Ray-Jones",
+      "Katie L. Burnham",
+      "Alex Tokolyi",
+      "Elodie Persyn",
+      "Mikhail Spivakov",
+      "Vijay G. Sankaran",
+      "Klaudia Walter",
+      "Kousik Kundu",
+      "Nicola Pirastu",
+      "Michael Inouye",
+      "Dirk S. Paul",
+      "Emma E. Davenport",
+      "Pelin Sahlén",
+      "Stephen Watt",
+      "Nicole Soranzo",
+      "Brandon M. Wenz",
+      "Yuan He",
+      "Nae-Chyun Chen",
+      "Joseph K. Pickrell",
+      "Jeremiah H. Li",
+      "Max F. Dudek",
+      "Taibo Li",
+      "Rebecca Keener",
+      "Benjamin F. Voight",
+      "Christopher D. Brown",
+      "Alexis Battle"
+    ],
+    "papers": [
+      "https://openalex.org/W4401277778",
+      "https://openalex.org/W4401340603",
+      "https://openalex.org/W4401794382",
+      "https://openalex.org/W4402435631",
+      "https://openalex.org/W4402440730",
+      "https://openalex.org/W4402005918",
+      "https://openalex.org/W4401360508",
+      "https://openalex.org/W4402277660"
+    ],
+    "pageranks": [
+      0.005657580913929329,
+      0.003678794274259488,
+      0.007113628942862363,
+      0.005954874578746096,
+      0.0021966611003611312,
+      0.007187973369624296,
+      0.013404739227977512,
+      0.007556926489079775
+    ],
+    "betweenness": [
+      294.69717332684473,
+      15.517773622967288,
+      229.95357882319453,
+      115.8038022444626,
+      0,
+      193.45964582273942,
+      1303.739528263679,
+      342.88370740504956
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "label": "Medicine / Immunology / Coronavirus disease 2019 (COVID-19)",
+    "size": 5,
+    "authors": [
+      "Carolyn T. Bramante",
+      "Kenneth B. Beckman",
+      "Tanvi Mehta",
+      "Amy B. Karger",
+      "David J. Odde",
+      "Christopher J. Tignanelli",
+      "John B. Buse",
+      "Darrell M. Johnson",
+      "Ray Watson",
+      "Jerry J Daniel",
+      "David Liebovitz",
+      "Jacinda M. Nicklas",
+      "Ken Cohen",
+      "Michael A. Puskarich",
+      "Hrishikesh Belani",
+      "Lianne Siegel",
+      "Nichole R. Klatt",
+      "Blake Anderson",
+      "Katrina M Hartman",
+      "Via Rao",
+      "Aubrey A Hagen",
+      "Barkha Patel",
+      "Sarah L. Fenno",
+      "Nandini Avula",
+      "Neha V Reddy",
+      "Spencer M Erickson",
+      "Regina Fricton",
+      "Samuel Lee",
+      "Gwendolyn Griffiths",
+      "Matthew F Pullen",
+      "Jennifer L. Thompson",
+      "Nancy E. Sherwood",
+      "Thomas A. Murray",
+      "Michael R. Rose",
+      "David R. Boulware",
+      "Jared D. Huling",
+      "Riannon C Atwater",
+      "Kenny Beckman",
+      "Jannis Brea",
+      "Courtney A. Broedlow",
+      "Paula Campora",
+      "Anup P. Challa",
+      "Jill Charles",
+      "Grace M. Christensen",
+      "Theresa Christiansen",
+      "Bo Connelly",
+      "Srijani Datta",
+      "Nikita Deng",
+      "Alex T Dunn",
+      "Faith M Fairbairn",
+      "D Fraser",
+      "Gwen Griffiths",
+      "Audrey Hendrickson",
+      "Nicholas E. Ingraham",
+      "Arthur Jeng",
+      "Darrell M Johnson",
+      "Erik A Kuehl",
+      "Derek LaBar",
+      "Sarah Lindberg",
+      "Darlette Luke",
+      "Rosario Machicado",
+      "Zeinab Mohamud",
+      "Rumbidzai Ngonyama",
+      "Elliott Parrens",
+      "Daniela Parra",
+      "Jennifer Proper",
+      "Naveen Reddy",
+      "Katelyn Rypka",
+      "Hanna G Saveraid",
+      "Paula Seloadji",
+      "Arman A. Shahriar",
+      "Jamie L Siegart",
+      "Lucas Simmons",
+      "Isabella Sinelli",
+      "Palak Singh",
+      "Andrew Snyder",
+      "Maxwell T Stauffer",
+      "Tannon L. Tople",
+      "Walker Tordsen",
+      "Beiqing Wu",
+      "Adnin Zaman",
+      "Madeline R Zolik",
+      "Lena Zinkl",
+      "Ziyad Al‐Aly",
+      "Hannah Davis",
+      "Lisa McCorkell",
+      "Letícia Soares",
+      "Sarah Wulf-Hanson",
+      "Akiko Iwasaki",
+      "Eric J. Topol",
+      "Jae Kyu Ryu",
+      "Zhaoqi Yan",
+      "Mauricio Montaño",
+      "Elif G. Sözmen",
+      "Karuna Dixit",
+      "Rahul K. Suryawanshi",
+      "Yusuke Matsui",
+      "Ekram Helmy",
+      "Prashant Kaushal",
+      "Sara K. Makanani",
+      "Thomas J. Deerinck",
+      "Anke Meyer‐Franke",
+      "Pamela E. Rios Coronado",
+      "Troy N. Trevino",
+      "Min‐Gyoung Shin",
+      "Reshmi Tognatta",
+      "Yixin Liu",
+      "Renaud Schuck",
+      "Lucas Le",
+      "Hisao Miyajima",
+      "Andrew S. Mendiola",
+      "Nikhita Arun",
+      "Brandon Guo",
+      "Taha Y. Taha",
+      "Ayushi Agrawal",
+      "Eilidh MacDonald",
+      "Oliver Aries",
+      "Aaron Yan",
+      "Olivia Weaver",
+      "Mark A. Petersen",
+      "Rosa Meza Acevedo",
+      "Maria del pilar Alzamora",
+      "Reuben Thomas",
+      "Michela Traglia",
+      "Valentina L. Kouznetsova",
+      "Igor F. Tsigelny",
+      "Alexander R. Pico",
+      "Kristy Red‐Horse",
+      "Mark H. Ellisman",
+      "Nevan J. Krogan",
+      "Mehdi Bouhaddou",
+      "Mélanie Ott",
+      "Warner C. Greene",
+      "Katerina Akassoglou",
+      "Clovis S. Palmer",
+      "Chrysostomos Perdios",
+      "Mohamed Abdel‐Mohsen",
+      "Joseph C. Mudd",
+      "Prasun K. Datta",
+      "Nicholas J. Maness",
+      "Gabrielle Lehmicke",
+      "Nadia Golden",
+      "Linh Hellmers",
+      "Carol Coyne",
+      "Kristyn Moore Green",
+      "Cecily C. Midkiff",
+      "Kelsey Williams",
+      "Rafael Tibúrcio",
+      "Marissa Fahlberg",
+      "Kyndal Boykin",
+      "Carys Kenway",
+      "Kasi Russell‐Lodrigue",
+      "Angela K. Birnbaum",
+      "Rudolf Bohm",
+      "Robert V. Blair",
+      "Jason Dufour",
+      "Tracy Fischer",
+      "Ahmad A. Saied",
+      "Jay Rappaport",
+      "Vignesh Chidambaram",
+      "Amudha Kumar",
+      "Murrium I. Sadaf",
+      "Emily Lu",
+      "Subhi J. Al’Aref",
+      "Tushar Tarun",
+      "Panagis Galiatsatos",
+      "Martha Gulati",
+      "Roger S. Blumenthal",
+      "Thorsten M. Leucker",
+      "Petros C. Karakousis",
+      "Jawahar L. Mehta"
+    ],
+    "papers": [
+      "https://openalex.org/W4396600997",
+      "https://openalex.org/W4401461906",
+      "https://openalex.org/W4401947087",
+      "https://openalex.org/W4401728680",
+      "https://openalex.org/W4400725096"
+    ],
+    "pageranks": [
+      0.001486772079718562,
+      0.006640661254803522,
+      0.006392691483916152,
+      0.008967126530894204,
+      0.004871182638668802
+    ],
+    "betweenness": [
+      0,
+      396.46935088833163,
+      440.86621277978463,
+      780.3342722131931,
+      355.4273635352485
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "label": "Biology / Gene / Genome",
+    "size": 4,
+    "authors": [
+      "Weichen Zhou",
+      "Kalpita R. Karan",
+      "Wenjin Gu",
+      "Hans‐Ulrich Klein",
+      "Gabriel Sturm",
+      "Philip L. De Jager",
+      "David A. Bennett",
+      "Michio Hirano",
+      "Martin Picard",
+      "Ryan E. Mills",
+      "Alex J. Cornish",
+      "Andreas Gruber",
+      "Ben Kinnersley",
+      "Daniel Chubb",
+      "Anna Frangou",
+      "Giulio Caravagna",
+      "Boris Noyvert",
+      "Eszter Lakatos",
+      "Henry M. Wood",
+      "S. Thorn",
+      "Richard Culliford",
+      "Claudia Arnedo-Pac",
+      "Jacob Househam",
+      "William Cross",
+      "Amit Sud",
+      "Philip Law",
+      "Máire Ní Leathlobhair",
+      "Aliah Hawari",
+      "Connor E. Woolley",
+      "Kitty Sherwood",
+      "Nathalie Feeley",
+      "Güler Gül",
+      "Juan Fernández‐Tajes",
+      "Luís Zapata",
+      "Ludmil B. Alexandrov",
+      "Nirupa Murugaesu",
+      "Alona Sosinsky",
+      "Jonathan Mitchell",
+      "Núria López-Bigas",
+      "Philip Quirke",
+      "David N. Church",
+      "Ian Tomlinson",
+      "Andrea Sottoriva",
+      "Trevor A. Graham",
+      "David C. Wedge",
+      "Richard S. Houlston",
+      "Jouni Sirén",
+      "Parsa Eskandar",
+      "Matteo Tommaso Ungaro",
+      "Glenn Hickey",
+      "Jordan M. Eizenga",
+      "Adam M. Novak",
+      "Xian Chang",
+      "Pi-Chuan Chang",
+      "Mikhail Kolmogorov",
+      "Andrew Carroll",
+      "Jean Monlong",
+      "Benedict Paten",
+      "Luís Nunes",
+      "Fuqiang Li",
+      "Meizhen Wu",
+      "Tian Luo",
+      "Klara Hammarström",
+      "Emma Torell",
+      "Ingrid Ljuslinder",
+      "Artur Mezheyeuski",
+      "Per‐Henrik Edqvist",
+      "Anna Löfgren Burström",
+      "Carl Zingmark",
+      "Sofia Edin",
+      "Chatarina Larsson",
+      "Lucy Mathot",
+      "Erik Osterman",
+      "Emerik Österlund",
+      "Viktor Ljungström",
+      "Inês Neves",
+      "Nicole Yacoub",
+      "Unnur Guðnadóttir",
+      "Helgi Birgisson",
+      "Malin Enblad",
+      "Fredrik Pontén",
+      "Richard Palmqvist",
+      "Xun Xu",
+      "Mathias Uhlén",
+      "Kui Wu",
+      "Bengt Glimelius",
+      "Cong Lin",
+      "Tobias Sjöblom"
+    ],
+    "papers": [
+      "https://openalex.org/W4401795513",
+      "https://openalex.org/W4401388829",
+      "https://openalex.org/W4402459535",
+      "https://openalex.org/W4401389125"
+    ],
+    "pageranks": [
+      0.0042882467190927896,
+      0.010928670804531252,
+      0.0033080884801862257,
+      0.01759449160690515
+    ],
+    "betweenness": [
+      72.23667692808199,
+      944.2204051173803,
+      19.82259255237516,
+      2431.1291626801367
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "label": "Stem cell / Principal (computer security) / Engineering ethics",
+    "size": 1,
+    "authors": [
+      "Vivien Marx"
+    ],
+    "papers": [
+      "https://openalex.org/W4401584823"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 30,
+    "label": "Biology / Materials science / Physics",
+    "size": 14,
+    "authors": [
+      "Cecilia Zaza",
+      "Megan D. Joseph",
+      "Olivia P. L. Dalby",
+      "Rhian F. Walther",
+      "Karol Kołątaj",
+      "Germán Chiarelli",
+      "Franck Pichaud",
+      "Guillermo P. Acuna",
+      "Sabrina Simoncelli",
+      "Takahiro Deguchi",
+      "Jonas Ries",
+      "Stephan Wimmi",
+      "Alexander Balinovic",
+      "Corentin Brianceau",
+      "Katherine L. Pintor",
+      "Jan Vielhauer",
+      "Bartosz Turkowyd",
+      "Carlos Helbig",
+      "Moritz Fleck",
+      "Katja Langenfeld",
+      "Jörg Kahnt",
+      "Timo Glatter",
+      "Ulrike Endesfelder",
+      "Andreas Diepold",
+      "Maureen H McFadden",
+      "Michel-Boris Emeritt",
+      "Hao Xu",
+      "Yihui Cui",
+      "Christophe Leterrier",
+      "Diana Zala",
+      "Laurent Venance",
+      "Zsolt Lenkei",
+      "Sheng Liu",
+      "Jianwei Chen",
+      "Jonas Hellgoth",
+      "Lucas-Raphael Müller",
+      "Boris Ferdman",
+      "Christian Karras",
+      "Dafei Xiao",
+      "Keith A. Lidke",
+      "Rainer Heintzmann",
+      "Yoav Shechtman",
+      "Yiming Li",
+      "Davide Carnevali",
+      "Limei Zhong",
+      "Esther González-Almela",
+      "C. S. da Costa Viana",
+      "Mikhail Rotkevich",
+      "Aiping Wang",
+      "Daniel Franco-Barranco",
+      "Aitor González-Marfil",
+      "Maria Victoria Neguembor",
+      "Álvaro Castells-García",
+      "Ignacio Arganda‐Carreras",
+      "Maria Pia Cosma",
+      "Alon Saguy",
+      "Onit Alalouf",
+      "Nadav Opatovski",
+      "Soohyen Jang",
+      "Mike Heilemann",
+      "S. Reinhardt",
+      "Luciano A. Masullo",
+      "Isabelle Baudrexel",
+      "Philipp R. Steen",
+      "Rafal Kowalewski",
+      "Alexandra S. Eklund",
+      "Sebastian Strauss",
+      "Eduard M. Unterauer",
+      "Thomas Schlichthaerle",
+      "Maximilian T. Strauss",
+      "Christian Klein",
+      "Ralf Jungmann",
+      "Pierre Jouchet",
+      "Clément Cabriel",
+      "Nicolas Bourg",
+      "Marion Bardou",
+      "Christian Poüs",
+      "Emmanuel Fort",
+      "Sandrine Lévêque‐Fort",
+      "Florian Wernert",
+      "Satish Babu Moparthi",
+      "Jeanne Lainé",
+      "Gilles Moulay",
+      "Fanny Boroni-Rueda",
+      "Florence Pelletier",
+      "Nicolas Jullien",
+      "Sofia Benkhelifa-Ziyat",
+      "Marie‐Jeanne Papandréou",
+      "Stéphane Vassilopoulos",
+      "Kayo Hibino",
+      "Yuji Sakai",
+      "Sachiko Tamura",
+      "Masatoshi Takagi",
+      "Katsuhiko Minami",
+      "Toyoaki Natsume",
+      "Masa A. Shimazoe",
+      "Masato T. Kanemaki",
+      "Naoko Imamoto",
+      "Kazuhiro Maeshima",
+      "Tual Monfort",
+      "Christian G. Specht",
+      "Ignacio Izeddin",
+      "Roger Riera",
+      "Tim P. Hogervorst",
+      "Ward Doelman",
+      "Yan Ni",
+      "Sílvia Pujals",
+      "Evangelia Bolli",
+      "Jeroen D. C. Codée",
+      "Sander I. van Kasteren",
+      "Lorenzo Albertazzi",
+      "Marta Jole Ildelfonsa Airaghi Leccardi",
+      "B. X. E. Desbiolles",
+      "Anna Y. Haddad",
+      "Baju Joy",
+      "Song Chen",
+      "Deblina Sarkar"
+    ],
+    "papers": [
+      "https://openalex.org/W4401969025",
+      "https://openalex.org/W4399443017",
+      "https://openalex.org/W4390571602",
+      "https://openalex.org/W4401730444",
+      "https://openalex.org/W4399292939",
+      "https://openalex.org/W4401918043",
+      "https://openalex.org/W4385302545",
+      "https://openalex.org/W4378070234",
+      "https://openalex.org/W3122700780",
+      "https://openalex.org/W4389938311",
+      "https://openalex.org/W4401759871",
+      "https://openalex.org/W4388103180",
+      "https://openalex.org/W3212317475",
+      "https://openalex.org/W4403917680"
+    ],
+    "pageranks": [
+      0.005716109855822977,
+      0.002133328141871731,
+      0.007043004502198432,
+      0.004545051364832998,
+      0.005102393450987148,
+      0.010020494295968288,
+      0.006670382332398698,
+      0.006810389691001729,
+      0.005519936712354591,
+      0.01063414096862542,
+      0.009543506852020775,
+      0.005776158455518552,
+      0.004031853013011744,
+      0.0012525990486873173
+    ],
+    "betweenness": [
+      13.636526984483726,
+      0,
+      119.82552177261792,
+      115.20749315463874,
+      96.270525949254,
+      463.5214335309062,
+      162.91438169389568,
+      197.48223219993045,
+      71.49633475798535,
+      697.8092294126158,
+      434.53817432968873,
+      18.164519741613557,
+      1.5547619047619046,
+      0
+    ]
+  },
+  {
+    "cluster_id": 31,
+    "label": "Host (biology) / Genetic code / Genome",
+    "size": 1,
+    "authors": [
+      "Alan Costello",
+      "Alexander A. Peterson",
+      "David L. Lanster",
+      "Zhiyi Li",
+      "Gavriela D. Carver",
+      "Ahmed H. Badran"
+    ],
+    "papers": [
+      "https://openalex.org/W4402450546"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 32,
+    "label": "Cancer cell / Cancer / Liver cancer",
+    "size": 1,
+    "authors": [
+      "Katharina Woess",
+      "Direna Alonso‐Curbelo"
+    ],
+    "papers": [
+      "https://openalex.org/W4400951584"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 33,
+    "label": "Hippo signaling pathway / Biology / Cancer research",
+    "size": 2,
+    "authors": [
+      "Ιωάννα Ακρίδα",
+      "Maria Makrygianni",
+      "Sofia Nikou",
+      "Francesk Mulita",
+      "Vasiliki Bravou",
+      "Helen Papadaki",
+      "Mengjia Lin",
+      "Zheng Xiaoyun",
+      "Jianing Yan",
+      "Fei Huang",
+      "Yilin Chen",
+      "Ran Ding",
+      "Jinkai Wan",
+      "Lei Zhang",
+      "Chenliang Wang",
+      "Jinchang Pan",
+      "Xiaolei Cao",
+      "Kaiyi Fu",
+      "Yan Lou",
+      "Xin‐Hua Feng",
+      "Junfang Ji",
+      "Bin Zhao",
+      "Fei Lan",
+      "Li Shen",
+      "Xianglei He",
+      "Yunqing Qiu",
+      "Jianping Jin"
+    ],
+    "papers": [
+      "https://openalex.org/W4401611019",
+      "https://openalex.org/W4399525848"
+    ],
+    "pageranks": [
+      0.0022020024250327653,
+      0.003158596118769152
+    ],
+    "betweenness": [
+      0,
+      316
+    ]
+  },
+  {
+    "cluster_id": 34,
+    "label": "Immune system / Biology / Immunology",
+    "size": 3,
+    "authors": [
+      "Sydney I. Ramirez",
+      "Farhoud Faraji",
+      "L. Benjamin Hills",
+      "Paul Lopez",
+      "Benjamin Goodwin",
+      "Hannah D. Stacey",
+      "Henry J. Sutton",
+      "Kathryn M. Hastie",
+      "Erica Ollmann Saphire",
+      "Hyun Jik Kim",
+      "Sara Mashoof",
+      "Carol H. Yan",
+      "Adam S. DeConde",
+      "Gina Levi",
+      "Shane Crotty",
+      "Timothy Recaldin",
+      "Linda Steinacher",
+      "Bruno Gjeta",
+      "Marius F. Harter",
+      "Lukas Adam",
+      "Kristina Kromer",
+      "Marisa Pimentel Mendes",
+      "Marina Bellavista",
+      "Mikhail Nikolaev",
+      "Giacomo Lazzaroni",
+      "Rok Krese",
+      "Umut Kilik",
+      "Doris Popovic",
+      "Bilgenaz Stoll",
+      "Régine Gérard",
+      "Michael Bscheider",
+      "Marc Bickle",
+      "Lauriane Cabon",
+      "J. Gray Camp",
+      "Nikolche Gjorevski",
+      "Vishal Vyas",
+      "Balraj Sandhar",
+      "Jack M. Keane",
+      "Elizabeth G. Wood",
+      "Hazel Blythe",
+      "Aled Jones",
+      "Eriomina Shahaj",
+      "Silvia Fanti",
+      "Jack Williams",
+      "Nasrine Metic",
+      "Mirjana Efremova",
+      "Han Leng Ng",
+      "Gayathri Nageswaran",
+      "Suzanne Byrne",
+      "Niklas Feldhahn",
+      "Federica M. Marelli‐Berg",
+      "Benny Chain",
+      "Andrew Tinker",
+      "Malcolm Finlay",
+      "M. Paula Longhi"
+    ],
+    "papers": [
+      "https://openalex.org/W4401171653",
+      "https://openalex.org/W4401574103",
+      "https://openalex.org/W4401797819"
+    ],
+    "pageranks": [
+      0.0077506264539068965,
+      0.0047092836851203405,
+      0.0025342946304657173
+    ],
+    "betweenness": [
+      745.0998503211604,
+      123.68789148954255,
+      34.74796888485232
+    ]
+  },
+  {
+    "cluster_id": 35,
+    "label": "Computer science / Artificial intelligence / Medicine",
+    "size": 6,
+    "authors": [
+      "Clare Lyle",
+      "Razvan Pascanu",
+      "Shibhansh Dohare",
+      "Juan Hernandez-Garcia",
+      "Qingfeng Lan",
+      "Parash Rahman",
+      "Ashique Rupam Mahmood",
+      "Richard S. Sutton",
+      "Xiyue Wang",
+      "Junhan Zhao",
+      "Eliana Marostica",
+      "Wei Yuan",
+      "Jietian Jin",
+      "Jiayu Zhang",
+      "Ruijiang Li",
+      "Hongping Tang",
+      "Kanran Wang",
+      "Yu Li",
+      "Fang Wang",
+      "Yulong Peng",
+      "Junyou Zhu",
+      "Jing Zhang",
+      "Christopher Jackson",
+      "Jun Zhang",
+      "Deborah Dillon",
+      "Nancy U. Lin",
+      "Lynette M. Sholl",
+      "Thomas Denize",
+      "David M. Meredith",
+      "Keith L. Ligon",
+      "Sabina Signoretti",
+      "Shuji Ogino",
+      "Jeffrey A. Golden",
+      "MacLean P. Nasrallah",
+      "Xiao Han",
+      "Sen Yang",
+      "Kun‐Hsing Yu",
+      "Nicholas Vincent",
+      "Pushpak Pati",
+      "Sofia Karkampouna",
+      "Francesco Bonollo",
+      "Éva Compérat",
+      "Martina Radić",
+      "Martin Spahn",
+      "Adriano Martinelli",
+      "Martin Wartenberg",
+      "Marianna Kruithof‐de Julio",
+      "Maria Anna Rapsomaniki",
+      "Erik N. Bergstrom",
+      "Ludmil B. Alexandrov"
+    ],
+    "papers": [
+      "https://openalex.org/W4401757840",
+      "https://openalex.org/W4401793915",
+      "https://openalex.org/W4402220065",
+      "https://openalex.org/W4402059671",
+      "https://openalex.org/W4402373303",
+      "https://openalex.org/W4401519932"
+    ],
+    "pageranks": [
+      0.0014913792505238574,
+      0.00891923672516425,
+      0.004179360153404665,
+      0.002092204609542481,
+      0.0056548224262987995,
+      0.002979014785545223
+    ],
+    "betweenness": [
+      0,
+      811.766421616234,
+      45.85745992226233,
+      0,
+      268.0501174352126,
+      79.91764347431919
+    ]
+  },
+  {
+    "cluster_id": 36,
+    "label": "Cytidine deaminase / Immune system / Evasion (ethics)",
+    "size": 1,
+    "authors": [
+      "Anders Hofer"
+    ],
+    "papers": [
+      "https://openalex.org/W4401643618"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 37,
+    "label": "Publish or perish / Computer science / Library science",
+    "size": 1,
+    "authors": [
+      "Max Kozlov"
+    ],
+    "papers": [
+      "https://openalex.org/W4401206496"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 38,
+    "label": "Medicine / Immunology / Antibody",
+    "size": 4,
+    "authors": [
+      "Samantha Ip",
+      "Teri-Louise North",
+      "Fatemeh Torabi",
+      "Yangfan Li",
+      "Hoda Abbasizanjani",
+      "Ashley Akbari",
+      "Elsie Horne",
+      "Rachel Denholm",
+      "Spencer Keene",
+      "Spiros Denaxas",
+      "Amitava Banerjee",
+      "Kamlesh Khunti",
+      "Cathie Sudlow",
+      "William Whiteley",
+      "Jonathan A C Sterne",
+      "Angela Wood",
+      "Venexia Walker",
+      "Alexander A. Cohen",
+      "Jennifer R. Keeffe",
+      "Ariën Schiepers",
+      "Sandra Dross",
+      "Allison J. Greaney",
+      "Annie V. Rorick",
+      "Han Gao",
+      "Priyanthi N.P. Gnanapragasam",
+      "Chengcheng Fan",
+      "Anthony P. West",
+      "Arlene I. Ramsingh",
+      "Jesse H. Erasmus",
+      "Janice D. Pata",
+      "Hiromi Muramatsu",
+      "Norbert Pardi",
+      "Paulo J.C. Lin",
+      "Scott Baxter",
+      "Rita Cruz",
+      "Martina Quintanar‐Audelo",
+      "Ellis Robb",
+      "Cristina Serrano-Amatriain",
+      "Leonardo Magneschi",
+      "Ian Fotheringham",
+      "Deborah H. Fuller",
+      "Gabriel D. Victora",
+      "Pamela J. Björkman",
+      "Jacob Class",
+      "Lacy M. Simons",
+      "Ramon Lorenzo‐Redondo",
+      "Jazmin Galván Achi",
+      "Laura Cooper",
+      "Tanushree Dangi",
+      "Pablo Penaloza‐MacMaster",
+      "Egon A. Ozer",
+      "Sarah E. Lutz",
+      "Lijun Rong",
+      "Judd F. Hultquist",
+      "Justin M. Richner",
+      "Matthew Gagné",
+      "Barbara J. Flynn",
+      "Shayne F. Andrew",
+      "Josue Marquez",
+      "Dillon R. Flebbe",
+      "Anna Mychalowych",
+      "Evan Lamb",
+      "Meredith E. Davis-Gardner",
+      "Matthew R. Burnett",
+      "Leonid Serebryannyy",
+      "Bob C. Lin",
+      "Zohar E. Ziff",
+      "Erin Maule",
+      "Robin Carroll",
+      "Mursal Naisan",
+      "Yogita Jethmalani",
+      "Laurent Pessaint",
+      "John-Paul Todd",
+      "Nicole A. Doria‐Rose",
+      "James Brett Case",
+      "Igor P. Dmitriev",
+      "Elena A. Kashentseva",
+      "Baoling Ying",
+      "Alan Dodson",
+      "Katelyn Kouneski",
+      "Sijy O’Dell",
+      "Bushra Wali",
+      "Madison Ellis",
+      "Sucheta Godbole",
+      "Farida Laboune",
+      "Amy R. Henry",
+      "I‐Ting Teng",
+      "Danyi Wang",
+      "Lingshu Wang",
+      "Qiong Zhou",
+      "Serge Zouantchangadou",
+      "Alex Van Ry",
+      "Mark G. Lewis",
+      "Hanné Andersen",
+      "Peter D. Kwong",
+      "David T. Curiel",
+      "Mario Roederer",
+      "Martha Nason",
+      "Kathryn E. Foulds",
+      "Mehul S. Suthar",
+      "Michael Diamond",
+      "Daniel C. Douek",
+      "Robert A. Seder"
+    ],
+    "papers": [
+      "https://openalex.org/W4401184086",
+      "https://openalex.org/W4401929521",
+      "https://openalex.org/W4401798115",
+      "https://openalex.org/W4402194231"
+    ],
+    "pageranks": [
+      0.002094984745277436,
+      0.004304770555145076,
+      0.003635640580824474,
+      0.004545075350323226
+    ],
+    "betweenness": [
+      2.957788410419989,
+      16.297968660640805,
+      20.264172979280023,
+      111.20097279716127
+    ]
+  },
+  {
+    "cluster_id": 39,
+    "label": "Medicine / Vaccination / Cytokine storm",
+    "size": 1,
+    "authors": [
+      "Saishravan Shyamsundar",
+      "Sheila K. Pierson",
+      "Caoilfhionn M Connolly",
+      "Mayan Teles",
+      "Dorry L. Segev",
+      "William A. Werbel",
+      "Frits van Rhee",
+      "Corey Casper",
+      "Joshua D. Brandstadter",
+      "Ariela Noy",
+      "David C. Fajgenbaum"
+    ],
+    "papers": [
+      "https://openalex.org/W4391836542"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 40,
+    "label": "Biology / Gene / Genetics",
+    "size": 9,
+    "authors": [
+      "Julian O. Streit",
+      "Ivana V. Bukvin",
+      "Sammy H. S. Chan",
+      "Shahzad Bashir",
+      "Lauren F. Woodburn",
+      "Tomasz Włodarski",
+      "Angelo Miguel Figueiredo",
+      "Gabija Jurkeviciute",
+      "Haneesh Sidhu",
+      "Charity R. Hornby",
+      "Christopher A. Waudby",
+      "Lisa D. Cabrita",
+      "Anaïs M. E. Cassaignau",
+      "John Christodoulou",
+      "Lukas P. M. Kremer",
+      "Santiago Cerrizuela",
+      "Hadil El‐Sammak",
+      "Mohammad Eid Al Shukairi",
+      "Tobias Ellinger",
+      "Jannes Straub",
+      "Aylin Korkmaz",
+      "Katrin Volk",
+      "Jan Brunken",
+      "Susanne Kleber",
+      "Simon Anders",
+      "Ana Martin‐Villalba",
+      "Sevi Durdu",
+      "Murat Iskar",
+      "Luke Isbel",
+      "Leslie Hoerner",
+      "C Wirbelauer",
+      "Lukas Burger",
+      "Daniel Heß",
+      "Vytautas Iešmantavičius",
+      "Dirk Schübeler",
+      "Nickole Moon",
+      "Christopher P. Morgan",
+      "Ruth Marx-Rattner",
+      "A. Y. Jeng",
+      "Rachel L. Johnson",
+      "Ijeoma Chikezie",
+      "Carmen A. Mannella",
+      "Mary D. Sammel",
+      "C. Neill Epperson",
+      "Tracy L. Bale",
+      "Valeria Orefice",
+      "Fulvia Ceccarelli",
+      "Cristiana Barbati",
+      "G. Buoncuore",
+      "Carmelo Pirone",
+      "Cristiano Alessandri",
+      "Fabrizio Conti",
+      "Olga Tsoy",
+      "Sabine Ameling",
+      "Sören Franzenburg",
+      "Markus Hoffmann",
+      "Lina Liv-Willuth",
+      "Hye‐Kyung Lee",
+      "Ludwig Knabl",
+      "Priscilla A. Furth",
+      "Uwe Völker",
+      "Lothar Hennighausen",
+      "Jan Baumbach",
+      "Tim Kacprowski",
+      "Markus List",
+      "Xujia Lu",
+      "Xiaohong Zhu",
+      "Guochen Li",
+      "Luying Wu",
+      "Liping Shao",
+      "Yulong Fan",
+      "Chen‐Wei Pan",
+      "Ying Wu",
+      "Yan Borné",
+      "Chaofu Ke",
+      "Benjamin J. Heil",
+      "Michael M. Hoffman",
+      "Florian Markowetz",
+      "Su‐In Lee",
+      "Casey S. Greene",
+      "Stephanie C. Hicks",
+      "Abby Trouth",
+      "Kamesh Ravichandran",
+      "Philip R. Gafken",
+      "Sara Martire",
+      "Gabriel Boyle",
+      "Giovana M. B. Veronezi",
+      "van Es La",
+      "Stephanie J. Namciu",
+      "Laura A. Banaszynski",
+      "Jay F. Sarthy",
+      "Srinivas Ramachandran"
+    ],
+    "papers": [
+      "https://openalex.org/W4401388979",
+      "https://openalex.org/W4402220111",
+      "https://openalex.org/W4401373788",
+      "https://openalex.org/W4402459545",
+      "https://openalex.org/W4403275102",
+      "https://openalex.org/W4403377468",
+      "https://openalex.org/W4402565231",
+      "https://openalex.org/W3197433610",
+      "https://openalex.org/W4389453937"
+    ],
+    "pageranks": [
+      0.0038345896080722573,
+      0.013826527394734982,
+      0.022425966036479086,
+      0.007715273899952938,
+      0.0013744055780870825,
+      0.007760265931607173,
+      0.00847916906633085,
+      0.0034137222197299583,
+      0.006725982622238934
+    ],
+    "betweenness": [
+      64.86833822973213,
+      950.0122564398046,
+      3249.5500051894887,
+      132.4235179962297,
+      0,
+      158.7283673042128,
+      801.7291997978002,
+      12.893531318551892,
+      87.16242509925429
+    ]
+  },
+  {
+    "cluster_id": 41,
+    "label": "Authorization / Prior authorization / Medicine",
+    "size": 1,
+    "authors": [
+      "Sammy Chouffani El Fassi",
+      "Adonis Abdullah",
+      "Ying Fang",
+      "Sarabesh Natarajan",
+      "Awab Bin Masroor",
+      "Naya Kayali",
+      "Simran Prakash",
+      "Gail E. Henderson"
+    ],
+    "papers": [
+      "https://openalex.org/W4401888862"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 42,
+    "label": "Biology / Interferon / Molecular biology",
+    "size": 2,
+    "authors": [
+      "Bret Poat",
+      "Sidhartha Hazari",
+      "Partha K. Chandra",
+      "Feyza Gündüz",
+      "Luis A. Balart",
+      "Xavier Álvarez",
+      "Srikanta Dash",
+      "Rajesh Panigrahi",
+      "Sruti Chandra",
+      "Sibnarayan Datta",
+      "Ramazan Kurt",
+      "Craig E. Cameron",
+      "Zhuhui Huang",
+      "Haitao Zhang",
+      "Robert F. Garry"
+    ],
+    "papers": [
+      "https://openalex.org/W2024118596",
+      "https://openalex.org/W1978676801"
+    ],
+    "pageranks": [
+      0.005730659025787966,
+      0.005730659025787966
+    ],
+    "betweenness": [
+      0,
+      0
+    ]
+  },
+  {
+    "cluster_id": 43,
+    "label": "Sprint / Kinematics / Acceleration",
+    "size": 1,
+    "authors": [
+      "Stanislav Stanko Štuhec",
+      "Peter Planjšek",
+      "Milan Čoh",
+      "Krzysztof Maćkała"
+    ],
+    "papers": [
+      "https://openalex.org/W4387975258"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 44,
+    "label": "Vocabulary / Linguistics / Mathematics education",
+    "size": 1,
+    "authors": [
+      "Dmitry Kobak",
+      "Rita González Márquez",
+      "Emőke-Ágnes Horvát",
+      "Jan Lause"
+    ],
+    "papers": [
+      "https://openalex.org/W4399598212"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 45,
+    "label": "Biochemist / Obituary / Biologist",
+    "size": 1,
+    "authors": [
+      "Georgina Ferry"
+    ],
+    "papers": [
+      "https://openalex.org/W4401257375"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 46,
+    "label": "Liquid biopsy / Cancer / Medicine",
+    "size": 1,
+    "authors": [
+      "Justin Jee",
+      "A. Rose Brannon",
+      "Rohan Kumar Singh",
+      "Andriy Derkach",
+      "Christopher J. Fong",
+      "Adrian V. Lee",
+      "Lauren Gray",
+      "Karl Pichotta",
+      "Anisha Luthra",
+      "Monica Diosdado",
+      "Mohammad Mahfuzul Haque",
+      "Jiannan Guo",
+      "Jennifer Hernandez",
+      "Kavita Garg",
+      "Clare Wilhelm",
+      "Maria E. Arcila",
+      "Nick Pavlakis",
+      "Stephen Clarke",
+      "Sohrab P. Shah",
+      "Pedram Razavi",
+      "Jorge S. Reis‐Filho",
+      "Marc Ladanyi",
+      "Nikolaus Schultz",
+      "Jeffrey I. Zwicker",
+      "Michael F. Berger",
+      "Bob T. Li",
+      "Simon Mantha"
+    ],
+    "papers": [
+      "https://openalex.org/W4401595377"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 47,
+    "label": "Haematopoiesis / Association (psychology) / Biology",
+    "size": 1,
+    "authors": [
+      "Miriam Díez-Díez",
+      "Beatriz L. Ramos-Neble",
+      "Jorge de la Barrera",
+      "Juan Carlos Silla-Castro",
+      "Ana Quintas",
+      "Enrique Vázquez",
+      "M. Ascensión Rey-Martín",
+      "Benedetta Izzi",
+      "Lucía Sánchez-García",
+      "Inés García‐Lunar",
+      "Guiomar Mendieta",
+      "Virginia Mass",
+      "Nuria Gómez-López",
+      "Cristina Espadas",
+      "Gema González",
+      "Antonio J. Quesada",
+      "Ana García‐Álvarez",
+      "Antonio Fernández-Ortı́z",
+      "Enrique Lara‐Pezzi",
+      "Ana Dopazo",
+      "Fátima Sánchez‐Cabo",
+      "Borja Ibáñez",
+      "Vicente Andrés",
+      "V. Fuster",
+      "José J. Fuster"
+    ],
+    "papers": [
+      "https://openalex.org/W4402044745"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 48,
+    "label": "Transgenerational epigenetics / Epigenetics / Replicate",
+    "size": 1,
+    "authors": [
+      "Rachel Kaletsky",
+      "Rebecca S. Moore",
+      "Titas Sengupta",
+      "Renee Seto",
+      "Borja Ceballos-Llera",
+      "Coleen T. Murphy"
+    ],
+    "papers": [
+      "https://openalex.org/W4399465076"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 49,
+    "label": "Biology / Evolutionary biology / Artificial intelligence",
+    "size": 2,
+    "authors": [
+      "Aaron P. Ragsdale",
+      "Rike Stelkens"
+    ],
+    "papers": [
+      "https://openalex.org/W4401854929",
+      "https://openalex.org/W4402541495"
+    ],
+    "pageranks": [
+      0.0023343905897912163,
+      0.0034700940855897523
+    ],
+    "betweenness": [
+      0,
+      316
+    ]
+  },
+  {
+    "cluster_id": 50,
+    "label": "Lumen (anatomy) / Intracellular / Blastocyst",
+    "size": 1,
+    "authors": [
+      "Markus Frederik Schliffka",
+      "Julien G. Dumortier",
+      "Diane Pelzer",
+      "Arghyadip Mukherjee",
+      "Jean‐Léon Maître"
+    ],
+    "papers": [
+      "https://openalex.org/W4402445960"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 51,
+    "label": "Computational biology / Biology / Genetics",
+    "size": 2,
+    "authors": [
+      "Andrew W. Torrance",
+      "César de la Fuente‐Núñez",
+      "Marcelo D. T. Torres",
+      "Erin F. Brooks",
+      "Angela Cesaro",
+      "Hila Sberro",
+      "Matthew O Gill",
+      "Cosmos Nicolaou",
+      "Ami S. Bhatt"
+    ],
+    "papers": [
+      "https://openalex.org/W4401574591",
+      "https://openalex.org/W4401699332"
+    ],
+    "pageranks": [
+      0.001386347625835128,
+      0.00557733733911194
+    ],
+    "betweenness": [
+      0,
+      368.14280349912815
+    ]
+  },
+  {
+    "cluster_id": 52,
+    "label": "Bifidobacterium animalis / Lactobacillus reuteri / Microbiology",
+    "size": 1,
+    "authors": [
+      "Matthieu Million",
+      "Marie Maraninchi",
+      "M. Henry",
+      "Fabrice Armougom",
+      "Hervé Richet",
+      "Patrizia Carrieri",
+      "René Valero",
+      "D. Raccah",
+      "B. Vialettes",
+      "Didier Raoult"
+    ],
+    "papers": [
+      "https://openalex.org/W4401082620"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 53,
+    "label": "Ecology / Population genetics / Population ecology",
+    "size": 1,
+    "authors": [
+      "Elizabeth T. Chevy",
+      "Jiseon Min",
+      "Victoria Caudill",
+      "Samuel E. Champer",
+      "B. Haller",
+      "Clara T. Rehmann",
+      "Chris C. R. Smith",
+      "Silas Tittes",
+      "Philipp W. Messer",
+      "Andrew D. Kern",
+      "Sohini Ramachandran",
+      "Peter L. Ralph"
+    ],
+    "papers": [
+      "https://openalex.org/W4400994235"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 54,
+    "label": "Trametinib / PI3K/AKT/mTOR pathway / Sirolimus",
+    "size": 1,
+    "authors": [
+      "Chao‐Yue Sun",
+      "Yizhuo Li",
+      "Di Cao",
+      "Yufeng Zhou",
+      "Mei‐Yin Zhang",
+      "Hui‐Yun Wang"
+    ],
+    "papers": [
+      "https://openalex.org/W3191670648"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 55,
+    "label": "Chemistry / NAD+ kinase / Nicotinamide adenine dinucleotide",
+    "size": 5,
+    "authors": [
+      "Richard Miller",
+      "Xi Xiong",
+      "Jialong Hou",
+      "Yi Zheng",
+      "Tao Jiang",
+      "Xuemiao Zhao",
+      "Jinlai Cai",
+      "Jiani Huang",
+      "Haijun He",
+      "Jiaxue Xu",
+      "Shuangjie Qian",
+      "Yao Lü",
+      "Xinshi Wang",
+      "Wenwen Wang",
+      "Qianqian Ye",
+      "Shuoting Zhou",
+      "Mengjia Lian",
+      "Jian Xiao",
+      "Weihong Song",
+      "Chenglong Xie",
+      "Karol M. Pencina",
+      "Rodrigo J. Valderrábano",
+      "Benjamin Wipper",
+      "Ariela R. Orkaby",
+      "Kieran F. Reid",
+      "Thomas W. Storer",
+      "Alexander P. Lin",
+      "Sai Merugumala",
+      "Lauren Wilson",
+      "Nancy K. Latham",
+      "Catherine Ghattas‐Puylara",
+      "Noelle Ozimek",
+      "Ming Cheng",
+      "Avantika Bhargava",
+      "Yusnie Memish‐Beleva",
+      "Brian Lawney",
+      "Siva Lavu",
+      "Pamela M Swain",
+      "Rajendra S. Apte",
+      "David Sinclair",
+      "David H. Livingston",
+      "Shalender Bhasin",
+      "Ao-jia Zhou",
+      "Zhang-E Xiong",
+      "Li Wang",
+      "Xiaoxuan Chen",
+      "Ziping Wang",
+      "Yidan Zhang",
+      "Wenwen Chen",
+      "Xiaoli Cai",
+      "Yan Xu",
+      "Shuang Rong",
+      "Ting Wang",
+      "Claudia C.S. Chini",
+      "Thais Peclat",
+      "Gina M. Warner",
+      "Sonu Kashyap",
+      "Jair M. Espindola-Netto",
+      "Guilherme C. de Oliveira",
+      "Lilian Sales Gomez",
+      "Kelly A. Hogan",
+      "Mariana G. Tarragó",
+      "Amrutesh S. Puranik",
+      "Guillermo Agorrody",
+      "Katie L. Thompson",
+      "Kevin Dang",
+      "Starlynn Clarke",
+      "Bennett G. Childs",
+      "Karina S. Kanamori",
+      "Micaela A. Witte",
+      "Paola Vidal",
+      "Anna L. Kirkland",
+      "Marco De Cecco",
+      "Karthikeyani Chellappa",
+      "Melanie R. McReynolds",
+      "Connor S.R. Jankowski",
+      "Tamar Tchkonia",
+      "James L. Kirkland",
+      "John M. Sedivy",
+      "Jan M. van Deursen",
+      "Darren J. Baker",
+      "Wim van Schooten",
+      "Joshua D. Rabinowitz",
+      "Joseph A. Baur",
+      "Eduardo N. Chini"
+    ],
+    "papers": [
+      "https://openalex.org/W4401074496",
+      "https://openalex.org/W4403318772",
+      "https://openalex.org/W4319295385",
+      "https://openalex.org/W4403500405",
+      "https://openalex.org/W3104775068"
+    ],
+    "pageranks": [
+      0.0028622754830687036,
+      0.006632936186355901,
+      0.002708322061285791,
+      0.0026493776772075397,
+      0.004133093555985383
+    ],
+    "betweenness": [
+      19.325159849301173,
+      494.4841840453273,
+      2.3476280553391935,
+      26.018166494968785,
+      117.56191384820134
+    ]
+  },
+  {
+    "cluster_id": 56,
+    "label": "DNA / Function (biology) / Mechanism (biology)",
+    "size": 1,
+    "authors": [
+      "Ilaria Ceppi",
+      "Maria Rosaria Dello Stritto",
+      "Martin Mütze",
+      "Stefan Braunshier",
+      "Valentina Mengoli",
+      "Giordano Reginato",
+      "My-Phuc Vo-Ho",
+      "Sonia Jimeno",
+      "Ananya Acharya",
+      "M. M. Roy",
+      "Aurore Sanchez",
+      "Swagata Halder",
+      "Sean Howard",
+      "Raphaël Guérois",
+      "Pablo Huertas",
+      "Sylvie M. Noordermeer",
+      "Ralf Seidel",
+      "Petr Ćejka"
+    ],
+    "papers": [
+      "https://openalex.org/W4402437971"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 57,
+    "label": "Chromatography / Chemistry / Electrospray ionization",
+    "size": 1,
+    "authors": [
+      "Ana M. Ares",
+      "María E. Soto",
+      "Marı́a J. Nozal",
+      "J.L. Bernal",
+      "Mariano Higes",
+      "José Bernal"
+    ],
+    "papers": [
+      "https://openalex.org/W2093200787"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 58,
+    "label": "Grocery store / Business / Sustainability",
+    "size": 1,
+    "authors": [],
+    "papers": [
+      "https://openalex.org/W4401397445"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 59,
+    "label": "Transparency (behavior) / Audit / Computer science",
+    "size": 1,
+    "authors": [
+      "Shayne Longpre",
+      "Robert Mahari",
+      "Anthony Chen",
+      "Naana Obeng-Marnu",
+      "Damien Sileo",
+      "William Brannon",
+      "Niklas Muennighoff",
+      "Nathan Khazam",
+      "Jad Kabbara",
+      "Kartik Perisetla",
+      "Xinyi Wu",
+      "Enrico Shippole",
+      "Kurt Bollacker",
+      "Tongshuang Wu",
+      "L. F. Villa",
+      "Sandy Pentland",
+      "Sara Hooker"
+    ],
+    "papers": [
+      "https://openalex.org/W4402057292"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 60,
+    "label": "Computer science / Leverage (statistics) / Robustness (evolution)",
+    "size": 1,
+    "authors": [
+      "Arthur Douillard",
+      "Qixuan Feng",
+      "Andrei A. Rusu",
+      "Rachita Chhaparia",
+      "Yani Donchev",
+      "Adhiguna Kuncoro",
+      "Marc’Aurelio Ranzato",
+      "Arthur Szlam",
+      "Jiajun Shen"
+    ],
+    "papers": [
+      "https://openalex.org/W4388716388"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 61,
+    "label": "Biology / Inflammation / Interferon",
+    "size": 2,
+    "authors": [
+      "Van K. Ninh",
+      "David Calcagno",
+      "Justin Yu",
+      "Bin Zhang",
+      "N. Taghdiri",
+      "R. Sehgal",
+      "Joshua M. Mesfin",
+      "Chengjie Chen",
+      "Kian Kalhor",
+      "Avinash Toomu",
+      "Jacob Duran",
+      "E. Adler",
+      "Jing Hu",
+      "Kun Zhang",
+      "Karen L. Christman",
+      "Zhenxing Fu",
+      "Bogdan Bintu",
+      "Kevin R. King",
+      "Kory J. Lavine"
+    ],
+    "papers": [
+      "https://openalex.org/W4401947398",
+      "https://openalex.org/W4401616155"
+    ],
+    "pageranks": [
+      0.0055055292051497005,
+      0.0013795652131671375
+    ],
+    "betweenness": [
+      365.5366286915213,
+      0
+    ]
+  },
+  {
+    "cluster_id": 62,
+    "label": "Optical imaging / Neuroscience / Ex vivo",
+    "size": 1,
+    "authors": [
+      "Giovanni Talei Franzesi",
+      "Ishan Gupta",
+      "Ming Hu",
+      "Kiryl D. Piatkevich",
+      "Murat Yıldırım",
+      "Jian-Ping Zhao",
+      "Minho Eom",
+      "Seungjae Han",
+      "Demian Park",
+      "Himashi P. Andaraarachchi",
+      "Zhaohan Li",
+      "Jesse R. Greenhagen",
+      "Amirul Muhammad Islam",
+      "Parth Vashishtha",
+      "Zahid Yaqoob",
+      "Nikita Pak",
+      "Alexander D Wissner-Gross",
+      "Daniel A. Martin-Alarcon",
+      "Jonathan J. Veinot",
+      "Peter T. C. So",
+      "Uwe Kortshagen",
+      "Young‐Gyu Yoon",
+      "Mriganka Sur",
+      "Edward S. Boyden"
+    ],
+    "papers": [
+      "https://openalex.org/W4402344229"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 63,
+    "label": "Lymphocytic choriomeningitis / Virology / Virus",
+    "size": 1,
+    "authors": [
+      "Caroline Bartman",
+      "Shengqi Hou",
+      "Fabian Correa",
+      "Yihui Shen",
+      "Victoria da Silva-Diz",
+      "Maya Aleksandrova",
+      "Daniel Herranz",
+      "Joshua D. Rabinowitz",
+      "Andrew M. Intlekofer"
+    ],
+    "papers": [
+      "https://openalex.org/W4401440861"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 64,
+    "label": "Substance P / Cancer research / Metastasis",
+    "size": 1,
+    "authors": [
+      "Veena Padmanaban",
+      "Isabel Keller",
+      "Ethan S Seltzer",
+      "Benjamin N. Ostendorf",
+      "Zachary Kerner",
+      "Sohail F. Tavazoie"
+    ],
+    "papers": [
+      "https://openalex.org/W4401388946"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 65,
+    "label": "Biology / Zoology",
+    "size": 1,
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "papers": [
+      "https://openalex.org/W4402366734"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 66,
+    "label": "Pace / Productivity / Work (physics)",
+    "size": 1,
+    "authors": [
+      "Anne Gulland"
+    ],
+    "papers": [
+      "https://openalex.org/W4401340575"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 67,
+    "label": "Medicine / Intensive care medicine / Diabetes mellitus",
+    "size": 2,
+    "authors": [
+      "Alessandro Grattoni",
+      "Gregory S. Korbutt",
+      "Alice A. Tomei",
+      "Andrés J. Garcı́a",
+      "Andrew R. Pepper",
+      "Cherie L. Stabler",
+      "Michael A. Brehm",
+      "Klearchos K. Papas",
+      "Antonio Citro",
+      "Haval Shirwan",
+      "Jeffrey R. Millman",
+      "Juan M. Melero‐Martin",
+      "Melanie L. Graham",
+      "Michael V. Sefton",
+      "Minglin Ma",
+      "Norma S. Kenyon",
+      "Omid Veiseh",
+      "Tejal A. Desai",
+      "M. Cristina Nostro",
+      "Marjana Marinac",
+      "Megan Sykes",
+      "Holger A. Russ",
+      "Jon S. Odorico",
+      "Qizhi Tang",
+      "Camillo Ricordi",
+      "Esther Latres",
+      "Nicholas E. Mamrak",
+      "Jaime A. Giraldo",
+      "Mark C. Poznansky",
+      "Paul de Vos",
+      "Soshana Svendsen",
+      "Clive N. Svendsen"
+    ],
+    "papers": [
+      "https://openalex.org/W4402197225",
+      "https://openalex.org/W4403432706"
+    ],
+    "pageranks": [
+      0.005730659025787966,
+      0.005730659025787966
+    ],
+    "betweenness": [
+      0,
+      0
+    ]
+  },
+  {
+    "cluster_id": 68,
+    "label": "Security token / Computer science / Computer network",
+    "size": 1,
+    "authors": [
+      "Xinlong Wang",
+      "Xiaosong Zhang",
+      "Zhengxiong Luo",
+      "Quan Sun",
+      "Yufeng Cui",
+      "Jinsheng Wang",
+      "Fan Zhang",
+      "Yueze Wang",
+      "Zhen Li",
+      "Qiying Yu",
+      "Yingli Zhao",
+      "Yulong Ao",
+      "X. Min",
+      "Tao Li",
+      "Boya Wu",
+      "Bo Zhao",
+      "Bowen Zhang",
+      "Liangdong Wang",
+      "Liu Guang",
+      "Zhini He",
+      "Xi Yang",
+      "Jingjing Liu",
+      "Yonghua Lin",
+      "Tiejun Huang",
+      "Zhongyuan Wang"
+    ],
+    "papers": [
+      "https://openalex.org/W4403799526"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 69,
+    "label": "Computer science / Machine translation / Transformer",
+    "size": 1,
+    "authors": [
+      "Ashish Vaswani",
+      "Noam Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Łukasz Kaiser",
+      "Illia Polosukhin"
+    ],
+    "papers": [
+      "https://openalex.org/W4385245566"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 70,
+    "label": "Scale (ratio) / Computer science / Automated theorem proving",
+    "size": 1,
+    "authors": [
+      "Zijian Wu",
+      "S. Y. Huang",
+      "Zhejian Zhou",
+      "Huaiyuan Ying",
+      "Jiayu Wang",
+      "Dahua Lin",
+      "Kai Chen"
+    ],
+    "papers": [
+      "https://openalex.org/W4404088889"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 71,
+    "label": "Aminoacylation / Homochirality / Nucleic acid",
+    "size": 1,
+    "authors": [
+      "Joshua A. Davisson",
+      "Evan M. Kalb",
+      "Isaac J. Knudson",
+      "Alanna Schepartz",
+      "Aaron E. Engelhart",
+      "Katarzyna P. Adamala"
+    ],
+    "papers": [
+      "https://openalex.org/W4401153423"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 72,
+    "label": "Natural (archaeology) / Bayesian probability / Computer science",
+    "size": 1,
+    "authors": [
+      "Matt Jones",
+      "Peter Chang",
+      "Kevin Murphy"
+    ],
+    "papers": [
+      "https://openalex.org/W4399252012"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 73,
+    "label": "Computer science / Protocol (science) / Scalability",
+    "size": 1,
+    "authors": [
+      "Samuele Marro",
+      "Emanuele La Malfa",
+      "Jesse H. Wright",
+      "Guohao Li",
+      "Nigel Shadbolt",
+      "Michael Wooldridge",
+      "Philip H. S. Torr"
+    ],
+    "papers": [
+      "https://openalex.org/W4403577155"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 74,
+    "label": "Analogy / Computer science / Code (set theory)",
+    "size": 1,
+    "authors": [
+      "Timothy Lillicrap",
+      "Konrad P. Körding"
+    ],
+    "papers": [
+      "https://openalex.org/W4288282481"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 75,
+    "label": "Quantum / Artificial neural network / Computer science",
+    "size": 1,
+    "authors": [
+      "Tsung‐Lin Yang",
+      "Mehdi Soleimanifar",
+      "Thiago Bergamaschi",
+      "John Preskill"
+    ],
+    "papers": [
+      "https://openalex.org/W4404343136"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 76,
+    "label": "Generative grammar / Diffusion / Mathematics",
+    "size": 1,
+    "authors": [
+      "Enrico Ventura",
+      "Beatrice Achilli",
+      "Gianluigi Silvestri",
+      "Carlo Lucibello",
+      "Luca Ambrogioni"
+    ],
+    "papers": [
+      "https://openalex.org/W4403344189"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 77,
+    "label": "Autophagy / Luteolin / Signal transduction",
+    "size": 1,
+    "authors": [
+      "Xiaoyu Yu",
+      "Lei Xu",
+      "Ce Su",
+      "Changyuan Wang",
+      "Zimeng Wang",
+      "Yanna Wang",
+      "Xiao‐Long Lu",
+      "Huijun Sun"
+    ],
+    "papers": [
+      "https://openalex.org/W4403625874"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 78,
+    "label": "Microfilament / Biology / Heavy meromyosin",
+    "size": 2,
+    "authors": [
+      "Marilyn A. Ludueña",
+      "Norman K. Wessells",
+      "YviJ. LeBeux",
+      "Joan Willemot"
+    ],
+    "papers": [
+      "https://openalex.org/W2019618246",
+      "https://openalex.org/W2883822873"
+    ],
+    "pageranks": [
+      0.0037361963962615047,
+      0.0019181883308294612
+    ],
+    "betweenness": [
+      316,
+      0
+    ]
+  },
+  {
+    "cluster_id": 79,
+    "label": "Ultrastructure / Biology / Axon",
+    "size": 1,
+    "authors": [
+      "S. Conradi",
+      "Lars -Olof Ronnevi"
+    ],
+    "papers": [
+      "https://openalex.org/W1977117041"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 80,
+    "label": "Brain–computer interface / Computer science / Interface (matter)",
+    "size": 1,
+    "authors": [
+      "Johannes Y Lee",
+      "SangJoon Lee",
+      "Abhishek Mishra",
+      "Yan Xu",
+      "Brandon McMahan",
+      "Brent Gaisford",
+      "Charles Kobashigawa",
+      "Mike Qu",
+      "Chang Xie",
+      "Jonathan C. Kao"
+    ],
+    "papers": [
+      "https://openalex.org/W4403351234"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 81,
+    "label": "Carbohydrate / Internal medicine / Endocrinology",
+    "size": 1,
+    "authors": [
+      "Barbara A. Gower",
+      "Amy M. Goss",
+      "MARIAN L. YURCHISHIN",
+      "Sarah E. Deemer",
+      "Bhuvana Sunil",
+      "William Garvey"
+    ],
+    "papers": [
+      "https://openalex.org/W4403622514"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 82,
+    "label": "Energy (signal processing) / Computer science / Mathematics",
+    "size": 1,
+    "authors": [
+      "Hao Luo",
+      "Sun We"
+    ],
+    "papers": [
+      "https://openalex.org/W4403883092"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 83,
+    "label": "Biology / Ploidy / WI-38",
+    "size": 1,
+    "authors": [
+      "Leonard Hayflick",
+      "Paul S. Moorhead"
+    ],
+    "papers": [
+      "https://openalex.org/W2004314923"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 84,
+    "label": "Computer science / Cognitive science / Linguistics",
+    "size": 1,
+    "authors": [
+      "Michael D. Skarlinski",
+      "Sam Cox",
+      "Jon M. Laurent",
+      "James D. Braza",
+      "Michaela M. Hinks",
+      "Michael J. Hammerling",
+      "Manvitha Ponnapati",
+      "Samuel G. Rodriques",
+      "Andrew Dickson White"
+    ],
+    "papers": [
+      "https://openalex.org/W4403795293"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 85,
+    "label": "Interferometry / Vortex / Interference (communication)",
+    "size": 1,
+    "authors": [
+      "Wei Wang",
+      "Zengxin Huang",
+      "Yilin Wang",
+      "Hangfeng Li",
+      "Pakorn Kanchanawong"
+    ],
+    "papers": [
+      "https://openalex.org/W4403752916"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 86,
+    "label": "Neuroscience / Nervous system / Reverse engineering",
+    "size": 1,
+    "authors": [
+      "Gal Haspel",
+      "Edward S. Boyden",
+      "Jeffrey Clayton Brown",
+      "George M. Church",
+      "Netta Cohen",
+      "Christopher Fang‐Yen",
+      "Steven W. Flavell",
+      "Miriam B. Goodman",
+      "Anne C. Hart",
+      "Oliver Hobert",
+      "Konstantinos Kagias",
+      "Shawn R. Lockery",
+      "Yangning Lu",
+      "Adam Marblestone",
+      "Jordan Matelsky",
+      "Hanspeter Pfister",
+      "Horacio G. Rotstein",
+      "Monika Scholz",
+      "Eli Shlizerman",
+      "Quilee Simeon",
+      "Vivek Venkatachalam",
+      "Guangyu Robert Yang",
+      "Eviatar Yemini",
+      "Manuel Zimmer",
+      "Konrad P. Körding"
+    ],
+    "papers": [
+      "https://openalex.org/W4385848637"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 87,
+    "label": "Chain (unit) / Cognitive science / Psychology",
+    "size": 1,
+    "authors": [
+      "Zayne Sprague",
+      "Fangcong Yin",
+      "Juan Diego Rodríguez",
+      "Dongwei Jiang",
+      "Manya Wadhwa",
+      "Prasann Singhal",
+      "Xinyu Zhao",
+      "Xi Ye",
+      "Kyle Mahowald",
+      "Greg Durrett"
+    ],
+    "papers": [
+      "https://openalex.org/W4404394948"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 88,
+    "label": "Zero (linguistics) / Chaotic / Shot (pellet)",
+    "size": 1,
+    "authors": [
+      "Yuanzhao Zhang",
+      "William Gilpin"
+    ],
+    "papers": [
+      "https://openalex.org/W4403786746"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 89,
+    "label": "ADAR / Computer science / Generative grammar",
+    "size": 1,
+    "authors": [
+      "Yue Jiang",
+      "Lina R Bagepalli",
+      "B. Banjanin",
+      "Yiannis A. Savva",
+      "Yingxin Cao",
+      "Lan Guo",
+      "Adrian W. Briggs",
+      "Brian J. Booth",
+      "Ronald J. Hause"
+    ],
+    "papers": [
+      "https://openalex.org/W4402939798"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 90,
+    "label": "Computer science / Language model / Transformer",
+    "size": 1,
+    "authors": [
+      "Tycho F. A. van der Ouderaa",
+      "Markus Nagel",
+      "Mart van Baalen",
+      "Yuki M. Asano",
+      "Tijmen Blankevoort"
+    ],
+    "papers": [
+      "https://openalex.org/W4390438300"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 91,
+    "label": "Computer science / Functional organization / Cognitive science",
+    "size": 1,
+    "authors": [
+      "Neil Rathi",
+      "Johannes Mehrer",
+      "Badr AlKhamissi",
+      "Taha Binhuraib",
+      "Nicholas M. Blauch",
+      "Martin Schrimpf"
+    ],
+    "papers": [
+      "https://openalex.org/W4403574715"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 92,
+    "label": "Artifact (error) / Bottleneck / Computer science",
+    "size": 1,
+    "authors": [
+      "Yun Deng",
+      "Rasmus Nielsen",
+      "Yun S. Song"
+    ],
+    "papers": [
+      "https://openalex.org/W4403065665"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 93,
+    "label": "Recurrent neural network / Computer science / Artificial intelligence",
+    "size": 1,
+    "authors": [
+      "Leo Feng",
+      "Frederick Tung",
+      "Mohamed Osama Ahmed",
+      "Yoshua Bengio",
+      "Hossein Hajimirsadegh"
+    ],
+    "papers": [
+      "https://openalex.org/W4403885169"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 94,
+    "label": "Mutation / Virus / Business",
+    "size": 1,
+    "authors": [
+      "Mingchen Li",
+      "Bingxin Zhou",
+      "Yang Tan",
+      "Liang Hong"
+    ],
+    "papers": [
+      "https://openalex.org/W4403085835"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 95,
+    "label": "Globe / Discipline / Diversity (politics)",
+    "size": 1,
+    "authors": [
+      "A. S. Vishwanathan"
+    ],
+    "papers": [
+      "https://openalex.org/W3159256197"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 96,
+    "label": "Edge of chaos / CHAOS (operating system) / Enhanced Data Rates for GSM Evolution",
+    "size": 1,
+    "authors": [
+      "Shiyang Zhang",
+      "Aakash Patel",
+      "Syed Rizvi",
+      "Nianchen Liu",
+      "Sizhuang He",
+      "Amin Karbasi",
+      "Emanuele Zappala",
+      "David van Dijk"
+    ],
+    "papers": [
+      "https://openalex.org/W4403884055"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 97,
+    "label": "Economics / Business",
+    "size": 1,
+    "authors": [
+      "P. C. Agrawal",
+      "Szymon Antoniak",
+      "Emma Bou Hanna",
+      "Devendra Singh Chaplot",
+      "Jessica Chudnovsky",
+      "Saurabh K. Garg†",
+      "Théophile Gervet",
+      "Sunita Ghosh",
+      "Amélie Héliou",
+      "P.C. Jacob",
+      "Albert Q. Jiang",
+      "Timothée Lacroix",
+      "Guillaume Lample",
+      "Diego Las Casas",
+      "Thibaut Lavril",
+      "Teven Le Scao",
+      "Andrea Lo",
+      "William Marshall",
+      "Louis Martin",
+      "Arthur Mensch",
+      "Pavankumar Muddireddy",
+      "Valera Nemychnikova",
+      "Marie Pellat",
+      "Patrick von Platen",
+      "Nikhil Raghuraman",
+      "Baptiste Rozière",
+      "Alexandre Sablayrolles",
+      "Lucile Saulnier",
+      "Romain Sauvestre",
+      "Wendy Shang",
+      "Roman Soletskyi",
+      "Lorraine Stewart",
+      "Pierre Stock",
+      "Joachim Studnia",
+      "Sandeep Subramanian",
+      "Sagar Vaze",
+      "Thomas J. Wang"
+    ],
+    "papers": [
+      "https://openalex.org/W4403345778"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 98,
+    "label": "Business",
+    "size": 1,
+    "authors": [
+      "Aryo Pradipta Gema",
+      "Joshua Ong Jun Leang",
+      "Giwon Hong",
+      "Alessio Devoto",
+      "Alberto Carlo Maria Mancino",
+      "Rohit Saxena",
+      "Xuanli He",
+      "Yu Zhao",
+      "Xiaotang Du",
+      "Mohammad Reza Ghasemi Madani",
+      "Claire Barale",
+      "Robert McHardy",
+      "Joshua Harris",
+      "Jean Kaddour",
+      "Emile van Krieken",
+      "Pasquale Minervini"
+    ],
+    "papers": [
+      "https://openalex.org/W4399455140"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  },
+  {
+    "cluster_id": 99,
+    "label": "Foundation (evidence) / Continuous glucose monitoring / Computer science",
+    "size": 1,
+    "authors": [
+      "Guy Lutsker",
+      "Gal Sapir",
+      "Anastasia Godneva",
+      "Smadar Shilo",
+      "Jerry R. Greenfield",
+      "Dorit Samocha‐Bonet",
+      "Shie Mannor",
+      "Eli A. Meirom",
+      "Gal Chechik",
+      "Hagai Rossman",
+      "Eran Segal"
+    ],
+    "papers": [
+      "https://openalex.org/W4405621434"
+    ],
+    "pageranks": [
+      0.000859598853868195
+    ],
+    "betweenness": [
+      0
+    ]
+  }
+]
