@@ -3,3 +3,4 @@ altair
 pandas
 plotly
 networkx
+python-dateutil

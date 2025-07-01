@@ -4,6 +4,113 @@ import plotly.graph_objects as go        # network graph
 import networkx as nx                    # network analysis
 import numpy as np
 from collections import Counter
+from datetime import datetime, timezone
+from dateutil import parser
+
+# ---------- Status Bar ----------
+def load_etl_status():
+    """Load ETL status from JSON file and return formatted status message"""
+    try:
+        with open("data/etl_status.json") as f:
+            status = json.load(f)
+        
+        # Parse the last run timestamp
+        last_run_str = status.get("last_run")
+        paper_count = status.get("paper_count", 0)
+        
+        if not last_run_str:
+            return "❌ ETL status unknown - missing timestamp"
+        
+        # Parse timestamp and calculate time difference
+        last_run = parser.parse(last_run_str)
+        now = datetime.now(timezone.utc)
+        time_diff = now - last_run
+        
+        # Calculate hours and format time ago
+        hours_ago = time_diff.total_seconds() / 3600
+        
+        if hours_ago < 1:
+            minutes_ago = int(time_diff.total_seconds() / 60)
+            time_ago = f"{minutes_ago} m ago"
+        elif hours_ago < 24:
+            hours = int(hours_ago)
+            minutes = int((hours_ago - hours) * 60)
+            time_ago = f"{hours} h {minutes} m ago"
+        else:
+            days_ago = int(hours_ago / 24)
+            remaining_hours = int(hours_ago % 24)
+            time_ago = f"{days_ago} d {remaining_hours} h ago"
+        
+        # Format paper count with spaces for thousands
+        formatted_count = f"{paper_count:,}".replace(",", " ")
+        
+        # Determine status color and icon
+        if hours_ago < 24:
+            icon = "✅"
+            status_text = "Data fresh"
+            color = "#28a745"  # green
+        elif hours_ago < 48:
+            icon = "⚠️"
+            status_text = "Data aging"
+            color = "#ffc107"  # yellow
+        else:
+            icon = "❌"
+            status_text = "Data stale"
+            color = "#dc3545"  # red
+        
+        message = f"{icon} {status_text} ‧ updated {time_ago} ‧ {formatted_count} papers"
+        
+        return message, color
+        
+    except FileNotFoundError:
+        return "❌ ETL status unknown - status file not found", "#dc3545"
+    except (json.JSONDecodeError, KeyError, ValueError) as e:
+        return "❌ ETL status unknown - malformed status file", "#dc3545"
+
+# Display status bar
+try:
+    status_result = load_etl_status()
+    if isinstance(status_result, tuple):
+        status_message, status_color = status_result
+    else:
+        status_message = status_result
+        status_color = "#dc3545"
+    
+    st.markdown(
+        f"""
+        <div style="
+            background-color: {status_color}15;
+            border-left: 4px solid {status_color};
+            padding: 8px 12px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            font-size: 14px;
+            color: {status_color};
+            font-weight: 500;
+        ">
+            {status_message}
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+except Exception as e:
+    st.markdown(
+        f"""
+        <div style="
+            background-color: #dc354515;
+            border-left: 4px solid #dc3545;
+            padding: 8px 12px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #dc3545;
+            font-weight: 500;
+        ">
+            ❌ ETL status unknown - error loading status
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
 
 # ---------- Load snapshot ----------
 with open("cluster_data.json") as f:
