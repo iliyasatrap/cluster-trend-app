@@ -3,6 +3,7 @@ import altair as alt                     # chart
 import plotly.graph_objects as go        # network graph
 import networkx as nx                    # network analysis
 import numpy as np
+import requests                          # for fetching paper titles
 from collections import Counter
 from datetime import datetime, timezone
 from dateutil import parser
@@ -156,8 +157,44 @@ with col3:
 # ---------- Paper list (optional) ----------
 if row["papers"] and len(row["papers"]) > 0:
     with st.expander(f"📄 Papers in Cluster {selected} ({len(row['papers'])} papers)"):
+        @st.cache_data
+        def fetch_paper_title(paper_url):
+            """Fetch paper title from OpenAlex API"""
+            try:
+                # Convert OpenAlex work URL to API endpoint
+                # From: https://openalex.org/W4401109001
+                # To: https://api.openalex.org/works/W4401109001
+                if 'openalex.org/' in paper_url:
+                    work_id = paper_url.split('/')[-1]  # Extract work ID (e.g., W4401109001)
+                    api_url = f'https://api.openalex.org/works/{work_id}'
+                else:
+                    return 'Title not available (invalid URL format)'
+                
+                response = requests.get(api_url, timeout=10)
+                if response.status_code == 200:
+                    paper_data = response.json()
+                    # Try 'title' first, then 'display_name' as fallback
+                    title = paper_data.get('title') or paper_data.get('display_name', 'Title not available')
+                    # Clean up the title if it's None or empty
+                    if not title or title.strip() == '':
+                        return 'Title not available'
+                    return title.strip()
+                else:
+                    return f'Title not available (HTTP {response.status_code})'
+            except requests.exceptions.Timeout:
+                return 'Title not available (timeout)'
+            except requests.exceptions.RequestException as e:
+                return 'Title not available (network error)'
+            except Exception as e:
+                return f'Title not available (error: {str(e)})'
+        
         for i, paper_url in enumerate(row["papers"], 1):
-            st.write(f"{i}. [{paper_url}]({paper_url})")
+            # Fetch the paper title
+            title = fetch_paper_title(paper_url)
+            st.write(f"{i}. **{title}**")
+            st.write(f"   🔗 [{paper_url}]({paper_url})")
+            if i < len(row["papers"]):  # Don't add spacing after the last item
+                st.write("")  # Add some spacing
 else:
     st.info("No papers listed for this cluster.")
 
